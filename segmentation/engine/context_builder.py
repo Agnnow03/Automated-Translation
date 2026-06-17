@@ -1,3 +1,59 @@
-from infrastructure.loaders.language_registry import LanguageRegistry
+from segmentation.domain.models.segment import Segment
+from engine.normalization import Normalizer
 
-language_registry = LanguageRegistry()
+class ContextBuilder:
+
+    def __init__(self, normalizer=Normalizer()):
+        self.normalizer = normalizer
+
+    def build(
+        self,
+        texts: list[list[str]],
+        original_text
+    ) -> list[Segment]:
+
+        segments = []
+
+        for idx in range(len(texts)):
+
+            previous_idx = (
+                idx -1
+                if idx > 0
+                else None
+            )
+
+            next_idx = (
+                idx + 1
+                if idx < len(texts) -1
+                else None
+            )
+
+            segment = Segment(
+                id=idx,
+
+                previous_id = previous_idx,
+
+                next_id= next_idx,
+
+                original_text= original_text,
+
+                normalized_exact=
+                    self.normalizer.normalize(
+                        texts[idx][0],
+                        profile="exact"
+                    ),
+
+                normalized_fuzzy=
+                    self.normalizer.normalize(
+                        texts[idx][0],
+                        profile="fuzzy"
+                    ),
+
+                start_idx=texts[idx][1],
+                end_idx = texts[idx][2],
+                #get start end end index in original_tetx
+            )
+
+            segments.append(segment)
+
+        return segments

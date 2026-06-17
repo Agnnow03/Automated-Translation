@@ -7,7 +7,8 @@ class Segment:
     previous_id: Optional[int]
     next_id: Optional[int]
     original_text: str
-    normalized: str
+    normalize_exact: str
+    normalize_fuzzy: str
     start_idx: int
     end_idx: int
 

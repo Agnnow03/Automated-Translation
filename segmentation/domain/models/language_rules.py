@@ -1,4 +1,4 @@
-class Rules:
+class LanguageRules:
     def __init__(
         self,
         abbreviations: set[str],

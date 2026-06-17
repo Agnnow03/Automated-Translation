@@ -1,6 +1,6 @@
 language: pl
 
-sentence_endings:
+segmentation:
   - "."
   - ";"
   - "?"
