@@ -1,0 +1,19 @@
+lowercase: true
+
+trim_spaces: true
+
+collapse_whitespace: true
+
+normalize_quotes: true
+
+normalize_dashes: true
+
+remove_zero_width_chars: true
+
+matching profiles:
+
+  exact:
+    remove_punctuation: false
+
+  fuzzy:
+    remove_punctuation: true
