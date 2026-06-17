@@ -1,0 +1,1 @@
+LANGUAGE_RULES_PATH = "..\\rules\\language_rules"
