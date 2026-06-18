@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Automated Translation Memory UI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f6f8;
+            color: #20232a;
+        }
+        .container {
+            max-width: 940px;
+            margin: 0 auto;
+            padding: 24px;
+        }
+        .card {
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+            padding: 24px;
+            margin-bottom: 24px;
+        }
+        .toolbar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+        label {
+            font-weight: 600;
+        }
+        select, textarea, button {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            font-size: 1rem;
+        }
+        textarea {
+            min-height: 180px;
+            resize: vertical;
+        }
+        button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            cursor: pointer;
+            width: auto;
+            min-width: 180px;
+        }
+        button:hover {
+            background: #1d4ed8;
+        }
+        .grid {
+            display: grid;
+            gap: 18px;
+        }
+        .row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+        .section-title {
+            margin: 0 0 8px;
+            font-size: 1.1rem;
+            color: #0f172a;
+        }
+        .proposal {
+            padding: 14px;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            background: #f8fafc;
+        }
+        .proposal strong {
+            display: block;
+            margin-bottom: 10px;
+        }
+        .note {
+            margin-top: 10px;
+            font-size: 0.95rem;
+            color: #475569;
+        }
+        .error {
+            color: #b91c1c;
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Translation Memory Demo</h1>
+            <p>Type text, choose source and target language, and get translation proposals and sentence correction suggestions.</p>
+            {% if error %}
+                <div class="error">{{ error }}</div>
+            {% endif %}
+            <form method="post">
+                <div class="row">
+                    <div>
+                        <label for="source_lang">Source language</label>
+                        <select id="source_lang" name="source_lang">
+                            <option value="{{ POLISH }}" {% if source_lang == POLISH %}selected{% endif %}>Polish</option>
+                            <option value="{{ ENGLISH }}" {% if source_lang == ENGLISH %}selected{% endif %}>English</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="target_lang">Target language</label>
+                        <select id="target_lang" name="target_lang">
+                            <option value="{{ POLISH }}" {% if target_lang == POLISH %}selected{% endif %}>Polish</option>
+                            <option value="{{ ENGLISH }}" {% if target_lang == ENGLISH %}selected{% endif %}>English</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="grid">
+                    <label for="text">Text to translate</label>
+                    <textarea id="text" name="text" placeholder="Enter Polish or English sentence...">{{ text }}</textarea>
+                    <label for="target_only">
+                        <input type="checkbox" id="target_only" name="target_only" value="1" {% if target_only %}checked{% endif %} />
+                        Only show corrections for the target language translation
+                    </label>
+                    <button type="submit">Translate and Suggest Corrections</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Translation proposals</h2>
+            {% if translations %}
+                {% for item in translations %}
+                    <div class="proposal">
+                        <strong>Source:</strong>
+                        <div>{{ item.original }}</div>
+                        <strong>Translation:</strong>
+                        <div>{{ item.translation or 'No proposal available' }}</div>
+                        <div class="note">{{ item.note }} Score: {{ '{:.0f}'.format(item.score * 100) }}%</div>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <div>No translation proposals yet.</div>
+            {% endif %}
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Correction suggestions</h2>
+            {% if corrections %}
+                {% for item in corrections %}
+                    <div class="proposal">
+                        <strong>Suggestion:</strong>
+                        <div>{{ item.text }}</div>
+                        <div class="note">{{ item.reason }}</div>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <div>No correction suggestions available.</div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,2840 @@
+{
+  "translations": [
+    {
+      "polish": "Wolałbym nie.",
+      "english": "I'd prefer not."
+    },
+    {
+      "polish": "Wolałabym tego nie jeść.",
+      "english": "I'd rather not eat that."
+    },
+    {
+      "polish": "To nie należy do ciebie!",
+      "english": "It doesn't belong to you!"
+    },
+    {
+      "polish": "To chłopiec czy dziewczynka?",
+      "english": "Is it a boy or a girl?"
+    },
+    {
+      "polish": "Myję się dwa razy dziennie.",
+      "english": "I wash myself twice a day."
+    },
+    {
+      "polish": "Skaleczyłem się.",
+      "english": "I cut myself."
+    },
+    {
+      "polish": "On czekał w swoim samochodzie.",
+      "english": "He was waiting in his car."
+    },
+    {
+      "polish": "Ona ukryła się w jaskini.",
+      "english": "She hid in the cave."
+    },
+    {
+      "polish": "Kwiaty stoją na stole.",
+      "english": "The flowers are standing on the table."
+    },
+    {
+      "polish": "On położył swoją torbę na podłodze.",
+      "english": "He put his bag on the floor."
+    },
+    {
+      "polish": "Tom ziewnął i uśmiechnął się.",
+      "english": "Tom yawned and smiled."
+    },
+    {
+      "polish": "I co ona powiedziała?",
+      "english": "And what did she say?"
+    },
+    {
+      "polish": "Ona powiedziała mi, że jedziesz jutro do Warszawy - czy to prawda?",
+      "english": "She told me that you are going to Warsaw tomorrow - is that true?"
+    },
+    {
+      "polish": "Sugeruję, żebyśmy poszli do domu.",
+      "english": "I suggest that we go home."
+    },
+    {
+      "polish": "Idziesz z nami?",
+      "english": "Are you going with us?"
+    },
+    {
+      "polish": "Ona zabrała ze sobą swojego brata.",
+      "english": "She took her brother with her."
+    },
+    {
+      "polish": "To, co miałam na myśli, to że naprawdę tęsknię za domem.",
+      "english": "What I mean is that I feel really homesick."
+    },
+    {
+      "polish": "To, co chcę powiedzieć, to że naprawdę cię lubię.",
+      "english": "What I want to say is that I really like you."
+    },
+    {
+      "polish": "On jest lekarzem.",
+      "english": "He is a doctor."
+    },
+    {
+      "polish": "Czy został jeszcze sok pomarańczowy?",
+      "english": "Is there any orange juice left?"
+    },
+    {
+      "polish": "Wrzuć to do tamtego pudełka.",
+      "english": "Throw it into that box."
+    },
+    {
+      "polish": "On wskoczył do basenu.",
+      "english": "He jumped into the pool."
+    },
+    {
+      "polish": "Dla mnie, tak.",
+      "english": "To me, yes."
+    },
+    {
+      "polish": "Tak, ale co?",
+      "english": "Yes, but what?"
+    },
+    {
+      "polish": "Przeczytałem artykuł na ten temat.",
+      "english": "I read an article about it."
+    },
+    {
+      "polish": "Nic nie wiem o tym człowieku.",
+      "english": "I don't know anything about this man."
+    },
+    {
+      "polish": "Jak dotrę na Trafalgar Square?",
+      "english": "How do I get to Trafalgar Square?"
+    },
+    {
+      "polish": "Czy mógłbyś pokazać mi, jak to zrobić?",
+      "english": "Could you show me how to do it?"
+    },
+    {
+      "polish": "Chciałbyś kawę czy herbatę?",
+      "english": "Would you like coffee or tea?"
+    },
+    {
+      "polish": "Chcesz grać czy nie?",
+      "english": "Do you want to play or not?"
+    },
+    {
+      "polish": "On nie zrozumiał tego, ale ona tak.",
+      "english": "He didn't get it, but she did."
+    },
+    {
+      "polish": "To nie jest niczyja wina, lecz moja własna.",
+      "english": "This is nobody's fault but my own."
+    },
+    {
+      "polish": "Czy mnie słyszysz?",
+      "english": "Can you hear me?"
+    },
+    {
+      "polish": "Czy mógłbyś pożyczyć mi tamtą płytę CD?",
+      "english": "Could you lend me that CD?"
+    },
+    {
+      "polish": "Ona chowa się za drzewem.",
+      "english": "She is hiding behind a tree."
+    },
+    {
+      "polish": "Gdzie to znalazłeś? Za łóżkiem.",
+      "english": "Where did you find it? Behind the bed."
+    },
+    {
+      "polish": "Ja jestem z Polski.",
+      "english": "I'm from Poland."
+    },
+    {
+      "polish": "Nie chcę iść tam całkiem sam.",
+      "english": "I don't want to go there all by myself."
+    },
+    {
+      "polish": "Patrzyłem wszędzie, ale wciąż nie mogę tego znaleźć.",
+      "english": "I've looked everywhere, but I still can't find it."
+    },
+    {
+      "polish": "Ona nie chciała o tym rozmawiać.",
+      "english": "She didn't want to talk about it."
+    },
+    {
+      "polish": "Ona nie powiedziała nikomu o tych telefonach.",
+      "english": "She hadn't told anyone about these calls."
+    },
+    {
+      "polish": "Co robiłeś przez te wszystkie lata?",
+      "english": "What have you been doing all these years?"
+    },
+    {
+      "polish": "Dokąd idziesz?",
+      "english": "Where are you going?"
+    },
+    {
+      "polish": "Pojechaliśmy do Londynu zeszłej wiosny.",
+      "english": "We went to London last spring."
+    },
+    {
+      "polish": "Na szczęście to był tylko zły sen.",
+      "english": "Fortunately it was just a bad dream."
+    },
+    {
+      "polish": "Będę gotowy za moment - tylko pozwól mi to skończyć.",
+      "english": "I'll be ready in a moment - just let me finish this."
+    },
+    {
+      "polish": "W pobliżu nie ma zbyt wielu sklepów.",
+      "english": "There aren't too many shops around here."
+    },
+    {
+      "polish": "Czy w pobliżu jest kościół?",
+      "english": "Is there a church around?"
+    },
+    {
+      "polish": "Może kupię te buty po tym, jak je przymierzę.",
+      "english": "I might buy the shoes after I try them on."
+    },
+    {
+      "polish": "On zdecydował się zmienić pracę po kilku tygodniach.",
+      "english": "He decided to change the job after a few weeks."
+    },
+    {
+      "polish": "On może się teraz z tobą spotkać.",
+      "english": "He will meet you now."
+    },
+    {
+      "polish": "Pan Smith może się teraz z tobą zobaczyć.",
+      "english": "Mr Smith will see you now."
+    },
+    {
+      "polish": "Jestem John.",
+      "english": "I am John."
+    },
+    {
+      "polish": "Jestem Tom.",
+      "english": "I am Tom."
+    },
+    {
+      "polish": "To byłeś ty!",
+      "english": "It was you!"
+    },
+    {
+      "polish": "Dokąd ty idziesz?",
+      "english": "Where are you going?"
+    },
+    {
+      "polish": "Mam dwóch braci i siostrę.",
+      "english": "I have two brothers and a sister."
+    },
+    {
+      "polish": "Czy masz aparat fotograficzny?",
+      "english": "Have you got a camera?"
+    },
+    {
+      "polish": "Kocham Cię.",
+      "english": "I love you."
+    },
+    {
+      "polish": "Nigdy cię nie zawiodę.",
+      "english": "I will never let you down."
+    },
+    {
+      "polish": "To jest pies.",
+      "english": "This is a dog."
+    },
+    {
+      "polish": "On zna już prawdę.",
+      "english": "He already knows the truth."
+    },
+    {
+      "polish": "Już to zrobiłem.",
+      "english": "I've already done that."
+    },
+    {
+      "polish": "Mam dla ciebie prezent.",
+      "english": "I've got a gift for you."
+    },
+    {
+      "polish": "Nie jedz tych czekoladek - one są dla Toma.",
+      "english": "Don't eat these chocolates - they're for Tom."
+    },
+    {
+      "polish": "Powinieneś się pospieszyć, jeśli nie chcesz się spóźnić.",
+      "english": "You should hurry up if you don't want to be late."
+    },
+    {
+      "polish": "Skoro potrafisz jeździć na rolkach, potrafisz też jeździć na łyżwach.",
+      "english": "When you can rollerblade, you can skate as well."
+    },
+    {
+      "polish": "Mam pomysł: chodźmy do kina.",
+      "english": "I know: let's go to the movies."
+    },
+    {
+      "polish": "Wiem, zaprosimy ich na kolację.",
+      "english": "I know, we will invite them to dinner."
+    },
+    {
+      "polish": "Idź i przynieś coś do jedzenia.",
+      "english": "Go and get something to eat."
+    },
+    {
+      "polish": "Czemu nie zrobisz czegoś?",
+      "english": "Why don't you do something?"
+    },
+    {
+      "polish": "Było późno, więc wziąłem taksówkę.",
+      "english": "It was late so I took a taxi."
+    },
+    {
+      "polish": "Stąd moja rada: proszę, abyście od samego początku upewnili się, co robicie.",
+      "english": "Hence my advice: please be certain about what you are doing from the very start."
+    },
+    {
+      "polish": "Nie za dobrze nam poszło, prawda?",
+      "english": "We didn't do too well, did we?"
+    },
+    {
+      "polish": "Znam go aż za dobrze.",
+      "english": "I know him far too well."
+    },
+    {
+      "polish": "Nie mogę z tobą teraz rozmawiać.",
+      "english": "I can't talk to you right now."
+    },
+    {
+      "polish": "Gdzie teraz jesteś?",
+      "english": "Where are you now?"
+    },
+    {
+      "polish": "Ona wyjęła szminkę z torby.",
+      "english": "She took out a lipstick from her bag."
+    },
+    {
+      "polish": "On właśnie przyszedł ze szkoły.",
+      "english": "He's just come from school."
+    },
+    {
+      "polish": "Kto napisał Władcę Pierścieni?",
+      "english": "Who wrote The Lord of The Ring?"
+    },
+    {
+      "polish": "Mój Panie, uczyń mnie czystym! , My Lord",
+      "english": "make me pure!"
+    },
+    {
+      "polish": "Dostałem wszystkie te książki za darmo.",
+      "english": "I got all these books for free."
+    },
+    {
+      "polish": "Oni wszyscy mówią dobrze po angielsku.",
+      "english": "They all speak good English."
+    },
+    {
+      "polish": "Nic nie możemy teraz zrobić.",
+      "english": "There's nothing we can do at the moment."
+    },
+    {
+      "polish": "Nie masz nic więcej do powiedzenia?",
+      "english": "You have nothing more to say?"
+    },
+    {
+      "polish": "To jest tam na górze.",
+      "english": "It's up there."
+    },
+    {
+      "polish": "Pójdę i popatrzę tam na dole.",
+      "english": "I'll go and look down there."
+    },
+    {
+      "polish": "Mam nadzieję, że jutro nie będzie padać!",
+      "english": "I hope it will not rain tomorrow!"
+    },
+    {
+      "polish": "Nasza impreza będzie świetna!",
+      "english": "Our party will be great!"
+    },
+    {
+      "polish": "Proszę bardzo. Czy podać coś jeszcze?",
+      "english": "Here you are. Can I get you anything else?"
+    },
+    {
+      "polish": "Proszę, to twoja kawa. , Here",
+      "english": "this is your coffee."
+    },
+    {
+      "polish": "Mogę ci pomóc, jeśli chcesz.",
+      "english": "I can help you if you want to."
+    },
+    {
+      "polish": "Nie umiem grać na pianinie.",
+      "english": "I can't play the piano."
+    },
+    {
+      "polish": "Czy mógłbyś jej pomóc?",
+      "english": "Could you help her?"
+    },
+    {
+      "polish": "Kate? Lubię ją, ale to wszystko.",
+      "english": "Kate? I like her but that's all."
+    },
+    {
+      "polish": "On jest bardzo miły.",
+      "english": "He's very nice."
+    },
+    {
+      "polish": "Czy on przyjdzie na imprezę?",
+      "english": "Is he coming to the party?"
+    },
+    {
+      "polish": "Która sukienka podoba ci się najbardziej? Ta czerwona",
+      "english": "Which dress do you like the most? The red one."
+    },
+    {
+      "polish": "Który telefon powinienem kupić? Ten jest lepszy.",
+      "english": "Which phone should I buy? This one is better."
+    },
+    {
+      "polish": "Gdzie jest Peter?",
+      "english": "Where is Peter?"
+    },
+    {
+      "polish": "Przepraszam, gdzie jest najbliższy przystanek tramwajowy?",
+      "english": "Excuse me, where's the nearest tram stop?"
+    },
+    {
+      "polish": "Ona obróciła się dokładnie w momencie, gdy jej siostra weszła do pokoju.",
+      "english": "She turned just as her sister entered the room."
+    },
+    {
+      "polish": "Widziałem jak przejeżdżał, kiedy czekałem na autobus.",
+      "english": "I saw him drive by as I was waiting for the bus."
+    },
+    {
+      "polish": "Większość z nich jest zrobiona z plastiku.",
+      "english": "Most of them are made of plastic."
+    },
+    {
+      "polish": "Większość studentów popiera nową propozycję.",
+      "english": "Most of the students support the new proposal."
+    },
+    {
+      "polish": "Przepraszam, ale nie mogę ci pomóc.",
+      "english": "Sorry but I can't help you."
+    },
+    {
+      "polish": "Co mogę dla ciebie zrobić?",
+      "english": "What can I do for you?"
+    },
+    {
+      "polish": "Nie wiem, co się dzieje.",
+      "english": "I don't know what's going on."
+    },
+    {
+      "polish": "Nikt nie wiedział, gdzie była Jackie.",
+      "english": "No one knew where Jackie was."
+    },
+    {
+      "polish": "Moi rodzice kupili sobie nowy samochód.",
+      "english": "My parents bought themselves a new car."
+    },
+    {
+      "polish": "Czy oni się dobrze bawili?",
+      "english": "Did they enjoy themselves?"
+    },
+    {
+      "polish": "Ona była bardzo zmartwiona z powodu czegoś.",
+      "english": "She was very upset about something."
+    },
+    {
+      "polish": "Dziękuję bardzo.",
+      "english": "Thank you very much."
+    },
+    {
+      "polish": "Morderstwo w Orient Ekspresie zostało napisane przez Agatę Christie.",
+      "english": "Murder on the Orient Express was written by Agatha Christie."
+    },
+    {
+      "polish": "On został zaatakowany przez psa.",
+      "english": "He was attacked by a dog."
+    },
+    {
+      "polish": "Kompletnie go nie znam.",
+      "english": "I don't know him at all."
+    },
+    {
+      "polish": "Powiedz mu, że jutro nie mogę przyjść do pracy.",
+      "english": "Tell him I can't come to work tomorrow."
+    },
+    {
+      "polish": "Dlaczego to zrobiłeś?",
+      "english": "Why did you do it?"
+    },
+    {
+      "polish": "On nie mógł zrozumieć, czemu ona nie powiedziała mu wcześniej.",
+      "english": "He couldn't understand why she didn't tell him earlier."
+    },
+    {
+      "polish": "Czy chcesz iść do domu?",
+      "english": "Do you want to go home?"
+    },
+    {
+      "polish": "Czego chcesz ode mnie?",
+      "english": "What do you want from me?"
+    },
+    {
+      "polish": "Czy on już przyjechał?",
+      "english": "Has he arrived yet?"
+    },
+    {
+      "polish": "Jeszcze tego nie rozumiesz?",
+      "english": "Don't you get it yet?"
+    },
+    {
+      "polish": "On jest moim przyjacielem.",
+      "english": "He is my friend."
+    },
+    {
+      "polish": "Zachowuj się, młoda damo!",
+      "english": "Behave yourself, young lady!"
+    },
+    {
+      "polish": "Nikt mnie nie nauczył, jak być prawdziwą damą.",
+      "english": "No one taught me how to be a proper lady."
+    },
+    {
+      "polish": "Ona zawiozła nas na dworzec kolejowy.",
+      "english": "She drove us to the train station."
+    },
+    {
+      "polish": "Czy jesteś Hiszpanem? Nie, nie jestem.",
+      "english": "Are you Spanish? No I'm not."
+    },
+    {
+      "polish": "Nie, nie sądzę. , No",
+      "english": "I don't think so."
+    },
+    {
+      "polish": "Czy chcesz, abym pokazał ci drzwi?",
+      "english": "Do you want me to show you the door?"
+    },
+    {
+      "polish": "Naprawdę nie wiem, co o nich myśleć.",
+      "english": "I really don't know what to think about them."
+    },
+    {
+      "polish": "Co z nimi?",
+      "english": "What about them?"
+    },
+    {
+      "polish": "Co oni tutaj robią?",
+      "english": "What are they doing here?"
+    },
+    {
+      "polish": "Nie wiedziałem, że tutaj jesteś.",
+      "english": "I didn't know you were here."
+    },
+    {
+      "polish": "On nie poszedł do szkoły, ponieważ był chory.",
+      "english": "He didn't go to school because he was ill."
+    },
+    {
+      "polish": "Oni zdecydowali się zostać w domu, ponieważ padał deszcz.",
+      "english": "They decided to stay at home because it was raining."
+    },
+    {
+      "polish": "Lubię pływać. Lubię również grać w tenisa.",
+      "english": "like to swim. Also I like to play tennis."
+    },
+    {
+      "polish": "Chcę iść spać, ale chcę też oglądać telewizję.",
+      "english": "I want to go to sleep but I also want to watch television."
+    },
+    {
+      "polish": "Nigdy się nie gubię.",
+      "english": "I never get lost."
+    },
+    {
+      "polish": "Jane nigdy nie chodzi spać przed północą.",
+      "english": "Jane never goes to bed before midnight."
+    },
+    {
+      "polish": "On naprawdę jest silny.",
+      "english": "He really is strong."
+    },
+    {
+      "polish": "Bardzo cię lubię.",
+      "english": "I really like you."
+    },
+    {
+      "polish": "Kim jesteś?",
+      "english": "Who are you?"
+    },
+    {
+      "polish": "Kto chce iść ze mną?",
+      "english": "Who wants to go with me?"
+    },
+    {
+      "polish": "Przepraszam, ale nie mogę iść z tobą.",
+      "english": "Sorry but I can't go with you."
+    },
+    {
+      "polish": "Nie chciałem cię zranić. Przepraszam.",
+      "english": "I didn't mean to hurt you. Sorry."
+    },
+    {
+      "polish": "Te towary zostały sprzedane bardzo szybko. Najwyraźniej było na nie zapotrzebowanie.",
+      "english": "These goods were sold very quickly. Apparently there was a demand for them."
+    },
+    {
+      "polish": "Sprzedajemy różne towary, wszystkiego po trochu.",
+      "english": "We sell various goods, a little bit of everything."
+    },
+    {
+      "polish": "Jeśli koś zapyta, powiedz mu, że poszłam do łóżka.",
+      "english": "If anyone asks, tell them I went to bed."
+    },
+    {
+      "polish": "Policja utrzymuje porządek w tym mieście.",
+      "english": "The police uphold the order in this city."
+    },
+    {
+      "polish": "Nasi obywatele dbają o ład.",
+      "english": "Our citizens care for order."
+    },
+    {
+      "polish": "Muszę się uczyć.",
+      "english": "I have to study."
+    },
+    {
+      "polish": "Moja mama powiedziała mi, że muszę umyć naczynia.",
+      "english": "My mother told me that I have to do the dishes."
+    },
+    {
+      "polish": "Ona jest taka piękna.",
+      "english": "She is so beautiful."
+    },
+    {
+      "polish": "Ona wyciągnęła rękę.",
+      "english": "She put out a hand."
+    },
+    {
+      "polish": "Nawet nie wiem gdzie ona jest.",
+      "english": "I don't even know where she is."
+    },
+    {
+      "polish": "Słońce mnie kompletnie oślepiło, nawet gdy miałem na sobie okulary przeciwsłoneczne.",
+      "english": "I was completely blinded by the sun even with my sunglasses on."
+    },
+    {
+      "polish": "Myślisz, że on dostanie tę pracę? Może...",
+      "english": "Do you think that he will get this job? I guess..."
+    },
+    {
+      "polish": "Czy ta sukienka jest lepsza od tamtej? Chyba.",
+      "english": "Is this dress better than the other one? I guess."
+    },
+    {
+      "polish": "To był pyszny posiłek, dziękuję.",
+      "english": "That was a delicious meal, thank you."
+    },
+    {
+      "polish": "Jak się masz? Dobrze, dziękuję.",
+      "english": "How are you? I'm fine, thank you."
+    },
+    {
+      "polish": "Czytała książkę w momencie kiedy zaszczekał pies.",
+      "english": "She was reading a book when the dog barked."
+    },
+    {
+      "polish": "Zadzwoniła do mnie w momencie, kiedy byłem pod prysznicem.",
+      "english": "She called me when I was in the shower."
+    },
+    {
+      "polish": "To nie jest mój dom.",
+      "english": "This isn't my house."
+    },
+    {
+      "polish": "Ona weszła do domu.",
+      "english": "She went into the house."
+    },
+    {
+      "polish": "Pomożesz mi zrobić ten projekt?",
+      "english": "Will you help me get this project in?"
+    },
+    {
+      "polish": "Muszę zrobić ten esej do następnego poniedziałku, a nawet nie wiem jak zacząć.",
+      "english": "I have to get this essay in by next Monday and I don't even know how to start."
+    },
+    {
+      "polish": "Powiedz mi prawdę.",
+      "english": "Tell me the truth."
+    },
+    {
+      "polish": "Oni nigdy nie dowiedzą się prawdy o tym, co stało się tamtego dnia.",
+      "english": "They'll never know the truth about what happened that day."
+    },
+    {
+      "polish": "On właśnie wyszedł.",
+      "english": "He's just left."
+    },
+    {
+      "polish": "Właśnie skończyliśmy.",
+      "english": "We've just finished."
+    },
+    {
+      "polish": "Hej! To moja torba, nie ruszaj jej!",
+      "english": "Hey! It's my bag, don't touch it!"
+    },
+    {
+      "polish": "Ej! Musisz zapłacić za swój posiłek!",
+      "english": "Hey! You have to pay for your meal!"
+    },
+    {
+      "polish": "Ona zawsze wstaje o siódmej.",
+      "english": "She always gets up at seven."
+    },
+    {
+      "polish": "Zawsze się spóźniasz!",
+      "english": "You're always late!"
+    },
+    {
+      "polish": "Zadzwoń do mnie zanim wyjdziesz z domu.",
+      "english": "Call me before you leave home."
+    },
+    {
+      "polish": "Byłem bardzo nieszczęśliwy, nim cię poznałem.",
+      "english": "I was very unhappy before I met you."
+    },
+    {
+      "polish": "Potrzebuję pożyczyć trochę pieniędzy.",
+      "english": "I need to borrow some money."
+    },
+    {
+      "polish": "Chcesz coś ze sklepu? Tak, trochę masła i mleka.",
+      "english": "Do you want something from the shop? Yes, some butter and milk."
+    },
+    {
+      "polish": "Zdałem ten egzamin dzięki jego pomocy.",
+      "english": "I passed this exam due to his help."
+    },
+    {
+      "polish": "To dzięki jego elastycznym godzinom pracy jest taki produktywny.",
+      "english": "It's thanks to his flexible working hours that he is so productive."
+    },
+    {
+      "polish": "Nie mogłem tego zrobić bez ciebie.",
+      "english": "I couldn't have done it without you."
+    },
+    {
+      "polish": "On podpisał ten papier bez słowa.",
+      "english": "He signed the paper without saying a word."
+    },
+    {
+      "polish": "Idź zapytać kogoś innego.",
+      "english": "Go ask somebody else."
+    },
+    {
+      "polish": "Mam nadzieję że ktoś ma aparat.",
+      "english": "I hope somebody's got a camera."
+    },
+    {
+      "polish": "Być może po prostu nie jestem przyzwyczajony do pań w domu.",
+      "english": "Maybe I'm just not used to having ladies in the house."
+    },
+    {
+      "polish": "Drogie panie, nie ma powodu do wstydu.",
+      "english": "Dear ladies, there's no reason to be ashamed."
+    },
+    {
+      "polish": "Co powiedziałeś?",
+      "english": "What did you say?"
+    },
+    {
+      "polish": "Ona powiedziała, że jest zajęta.",
+      "english": "She said that she was busy."
+    },
+    {
+      "polish": "Czy znasz mężczyznę, który mieszka w tamtym domu?",
+      "english": "Do you know the man who lives in that house?"
+    },
+    {
+      "polish": "Chłopiec, który ci uratował życie, nie żyje.",
+      "english": "The boy who saved your life is dead."
+    },
+    {
+      "polish": "Czy twój niemiecki się poprawia?",
+      "english": "Is your German getting better?"
+    },
+    {
+      "polish": "Nie powinieneś zostawiać swoich drzwi otwartych.",
+      "english": "You shouldn't leave your door unlocked."
+    },
+    {
+      "polish": "Nie mam na to czasu.",
+      "english": "I don't have time for that."
+    },
+    {
+      "polish": "Ile mamy czasu?",
+      "english": "How much time do we have?"
+    },
+    {
+      "polish": "Zawsze prosisz mnie o więcej pieniędzy.",
+      "english": "You always ask me for more money."
+    },
+    {
+      "polish": "Czy mogę dostać więcej herbaty?",
+      "english": "Can I have some more tea?"
+    },
+    {
+      "polish": "Moja siostra ma piętnaście lat.",
+      "english": "My sister is fifteen years old."
+    },
+    {
+      "polish": "Pracuję tutaj od pięciu lat.",
+      "english": "I've been working here for five years."
+    },
+    {
+      "polish": "To była po prostu pomyłka.",
+      "english": "It was simply a mistake."
+    },
+    {
+      "polish": "Po prostu powiedziałem mu, żeby przestał się odzywać.",
+      "english": "I simply told him to stop talking."
+    },
+    {
+      "polish": "Mam trzy koty, ale ten jest moim ulubionym.",
+      "english": "I have three cats but this one is my favourite."
+    },
+    {
+      "polish": "Podoba mi się tamta sukienka, ale ta jest tańsza.",
+      "english": "I like that dress but this one is cheaper."
+    },
+    {
+      "polish": "Będziesz musiał pójść na piechotę do miasta.",
+      "english": "You'll have to walk into town."
+    },
+    {
+      "polish": "Ona zaczęła iść nieco szybciej.",
+      "english": "She started walking a little faster."
+    },
+    {
+      "polish": "Jego sława prześcignęła go.",
+      "english": "His glory surpassed him."
+    },
+    {
+      "polish": "Twoja chwała będzie wieczna.",
+      "english": "Your glory will be eternal."
+    },
+    {
+      "polish": "Chodźmy tam razem.",
+      "english": "Let's go there together."
+    },
+    {
+      "polish": "Możemy to zrobić, jeżeli będziemy pracować razem.",
+      "english": "We can do it, if we work together."
+    },
+    {
+      "polish": "Posąg stoi na środku rynku.",
+      "english": "The statue stands in the middle of the marketplace."
+    },
+    {
+      "polish": "On stał w drzwiach.",
+      "english": "He stood in the doorway."
+    },
+    {
+      "polish": "Sama wielkość tego budynku zaskakuje ludzi.",
+      "english": "The sheer size of this building stuns people."
+    },
+    {
+      "polish": "On osiągnął to samą siłą woli.",
+      "english": "He achieved it by the sheer willpower."
+    },
+    {
+      "polish": "Co o tym sądzisz?",
+      "english": "What do you think about it?"
+    },
+    {
+      "polish": "Uważam, że to jest bardzo pomocne.",
+      "english": "I think it's very helpful."
+    },
+    {
+      "polish": "Czy wierzysz w Boga?",
+      "english": "Do you believe in God?"
+    },
+    {
+      "polish": "Tylko Bóg ma prawo dawać i odbierać życie.",
+      "english": "Only God has the right to give and to take life away."
+    },
+    {
+      "polish": "Chcę, abyś poszedł na pocztę. W porządku.",
+      "english": "I want you to go to the post. Roger."
+    },
+    {
+      "polish": "Chcę, abyś słuchał bardzo uważnie. Ok.",
+      "english": "I want you to listen very carefully. Roger."
+    },
+    {
+      "polish": "Nie dochodzimy nigdzie dalej w zrozumieniu tego problemu.",
+      "english": "We are not getting much further in understanding this problem."
+    },
+    {
+      "polish": "Naukowcy nie są pewni. Czekają na więcej szczegółów.",
+      "english": "The scientists are not sure. They are waiting for further details."
+    },
+    {
+      "polish": "Ile razy muszę ci to mówić?",
+      "english": "How many times do I have to tell you this?"
+    },
+    {
+      "polish": "Tym razem on był cicho.",
+      "english": "This time he was quiet."
+    },
+    {
+      "polish": "Sklep jest otwarty od 8:00 do 21:00.",
+      "english": "The shop is open from 8 am to 9 pm."
+    },
+    {
+      "polish": "Proszę umyj naczynia zanim wyjdziesz.",
+      "english": "Please wash the dishes before you go."
+    },
+    {
+      "polish": "Kim są ci wszyscy ludzie?",
+      "english": "Who are all these people?"
+    },
+    {
+      "polish": "Nic dziwnego, że ludzie tak bardzo ją lubią.",
+      "english": "No wonder people like her so much."
+    },
+    {
+      "polish": "Co to jest?",
+      "english": "What is this?"
+    },
+    {
+      "polish": "Co to znaczy?",
+      "english": "What does it mean?"
+    },
+    {
+      "polish": "Mój dom jest znacznie mniejszy niż twój.",
+      "english": "My house is much smaller than yours."
+    },
+    {
+      "polish": "Myślę, że jesteś mądrzejsza od Jane.",
+      "english": "I think you are smarter than Jane."
+    },
+    {
+      "polish": "Chcecie, żebym wam pomógł?",
+      "english": "Do you want me to help you?"
+    },
+    {
+      "polish": "Mam coś tutaj dla was obojga.",
+      "english": "I have something here, for both of you."
+    },
+    {
+      "polish": "Mam dla ciebie dobre wiadomości.",
+      "english": "I've got good news for you."
+    },
+    {
+      "polish": "To było zbyt dobre, żeby było prawdziwe.",
+      "english": "It was too good to be true."
+    },
+    {
+      "polish": "Znam ją przez całe swoje życie.",
+      "english": "I've known her all my life."
+    },
+    {
+      "polish": "Jej życie się zmieniło, kiedy urodziło się jej pierwsze dziecko.",
+      "english": "Her life changed when her first baby was born."
+    },
+    {
+      "polish": "Znam go lepiej niż ty.",
+      "english": "I know him better than you do."
+    },
+    {
+      "polish": "Wiem, że zrobisz to lepiej ode mnie.",
+      "english": "I know you will do it better than me."
+    },
+    {
+      "polish": "Spotkajmy się w kinie.",
+      "english": "Let's meet at the cinema."
+    },
+    {
+      "polish": "Ona nie była dzisiaj na uniwersytecie.",
+      "english": "She wasn't at the university today."
+    },
+    {
+      "polish": "Gdzie mogę położyć swoje rzeczy?",
+      "english": "Where can I put my stuff?"
+    },
+    {
+      "polish": "Mam trochę ciuchów które mógłbyś pożyczyć.",
+      "english": "I've got some stuff you could borrow."
+    },
+    {
+      "polish": "Jaki jest dzisiaj dzień?",
+      "english": "What day is it today?"
+    },
+    {
+      "polish": "Będziesz jeszcze musiał poczekać dzień lub dwa.",
+      "english": "You'll have to wait another day or two."
+    },
+    {
+      "polish": "Co tutaj robisz?",
+      "english": "What are you doing here?"
+    },
+    {
+      "polish": "Zrobię cokolwiek zechcesz.",
+      "english": "I'll do anything you want."
+    },
+    {
+      "polish": "Niech spoczywa w pokoju.",
+      "english": "May he rest in peace."
+    },
+    {
+      "polish": "Niech Bóg im dopomoże.",
+      "english": "May God help them."
+    },
+    {
+      "polish": "Daj mi rękę.",
+      "english": "Give me your hand."
+    },
+    {
+      "polish": "Ona dała mu klucz.",
+      "english": "She gave him the key."
+    },
+    {
+      "polish": "Ona wróciła do domu dwie godziny temu.",
+      "english": "She returned home two hours ago."
+    },
+    {
+      "polish": "To było dwa lub trzy lata temu.",
+      "english": "It was two or three years ago."
+    },
+    {
+      "polish": "No dobra, jesteś zadowolony?",
+      "english": "Well now, are you happy?"
+    },
+    {
+      "polish": "No cóż, nie jestem pewny, czy masz rację.",
+      "english": "Well, I'm not sure if you're right."
+    },
+    {
+      "polish": "W którą stronę powinienem iść - w lewo czy w prawo?",
+      "english": "Which way should I go - left or right?"
+    },
+    {
+      "polish": "Która spódniczka bardziej ci się podoba? Ta czy ta?",
+      "english": "Which skirt do you like better? This or that?"
+    },
+    {
+      "polish": "Musimy pomagać sobie nawzajem.",
+      "english": "We must help each other."
+    },
+    {
+      "polish": "Oni kochali się wzajemnie.",
+      "english": "They loved each other."
+    },
+    {
+      "polish": "Oczywiście, postaram się Ci pomóc, jeśli będę mógł.",
+      "english": "Of course, I will try to help you if I can."
+    },
+    {
+      "polish": "To, oczywiście, był szalony pomysł.",
+      "english": "That, of course, was a crazy idea."
+    },
+    {
+      "polish": "Nie wstydź się, jesteś wśród przyjaciół.",
+      "english": "Don't be shy, you're with friends."
+    },
+    {
+      "polish": "Spędzę te święta wśród rodziny.",
+      "english": "I'll spend this Christmas with my family."
+    },
+    {
+      "polish": "Nikt nie odezwał się przez chwilę.",
+      "english": "Nobody spoke for a moment."
+    },
+    {
+      "polish": "Nikt nie powinien się o tym dowiedzieć.",
+      "english": "Nobody's supposed to know about it."
+    },
+    {
+      "polish": "Powiedz, czy myśmy się już nie spotkali?",
+      "english": "Say, haven't we met already?"
+    },
+    {
+      "polish": "Powiedz, czy to nie jest ta dziewczyna, z którą wczoraj w nocy rozmawiałeś?",
+      "english": "Say, isn't this the girl you talked to last night?"
+    },
+    {
+      "polish": "Pies jest pod stołem.",
+      "english": "The dog is under the table."
+    },
+    {
+      "polish": "Nie mogę tego nigdzie znaleźć. Czy patrzyłeś pod łóżkiem?",
+      "english": "I can't find it anywhere. Have you looked under the bed?"
+    },
+    {
+      "polish": "Ona chciała kupić komputer, dlatego oszczędzała wszystko, co zarobiła.",
+      "english": "She wanted to buy a computer; therefore she saved everything she earned."
+    },
+    {
+      "polish": "Więc co się wtedy stało?",
+      "english": "So what happened then?"
+    },
+    {
+      "polish": "I wtedy urodziła się Kate.",
+      "english": "And then Kate was born."
+    },
+    {
+      "polish": "Nie powiem ani jednego słowa.",
+      "english": "I will not say a single word."
+    },
+    {
+      "polish": "Wygrana była ich jedynym celem.",
+      "english": "Winning was their solitary goal."
+    },
+    {
+      "polish": "Każdego dnia wyglądasz piękniej.",
+      "english": "You look more beautiful every day."
+    },
+    {
+      "polish": "Cześć, szukam Jane, czy jest ona w domu?",
+      "english": "Hi, I'm looking for Jane, is she home?"
+    },
+    {
+      "polish": "Prawdopodobnie zobaczymy się później.",
+      "english": "I will probably see you later."
+    },
+    {
+      "polish": "To był prawdopodobnie tylko przypadek.",
+      "english": "It was probably only a coincidence."
+    },
+    {
+      "polish": "Ona nie mogła myśleć o takich rzeczach.",
+      "english": "She couldn't think about such things."
+    },
+    {
+      "polish": "Nigdy nie widziałem takiego wielkiego samochodu!",
+      "english": "I've never seen such a huge car!"
+    },
+    {
+      "polish": "Oni mieszkają w domu obok.",
+      "english": "They live in the house next door."
+    },
+    {
+      "polish": "Przynajmniej oni nie mogą nas tutaj znaleźć.",
+      "english": "At least they can't find us here."
+    },
+    {
+      "polish": "To słówko oznacza zupełnie coś innego w jej języku.",
+      "english": "This word means entirely something else in her language."
+    },
+    {
+      "polish": "To znaczy, że nie możemy pójść.",
+      "english": "This means we can't go."
+    },
+    {
+      "polish": "Patrzyłem wszędzie, ale wciąż nie mogę tego znaleźć.,",
+      "english": "I've looked everywhere, but I still can't find it."
+    },
+    {
+      "polish": "Skoro potrafisz jeździć na rolkach, potrafisz też jeździć na łyżwach.",
+      "english": "When you can rollerblade,you can skate as well."
+    },
+    {
+      "polish": "Mój Panie, uczyń mnie czystym!",
+      "english": "My Lord, make me pure!"
+    },
+    {
+      "polish": "Proszę, to twoja kawa.",
+      "english": "Here, this is your coffee."
+    },
+    {
+      "polish": "Kate? Lubię ją, ale to wszystko.,",
+      "english": "Kate? I like her, but that's all."
+    },
+    {
+      "polish": "Przepraszam, ale nie mogę ci pomóc.",
+      "english": "Sorry, but I can't help you."
+    },
+    {
+      "polish": "Hej, to jest mój długopis.",
+      "english": "Hey, this is my pen."
+    },
+    {
+      "polish": "Czy jesteś Hiszpanem? Nie, nie jestem.",
+      "english": "Are you Spanish? No, I'm not."
+    },
+    {
+      "polish": "Nie, nie sądzę.",
+      "english": "No, I don't think so."
+    },
+    {
+      "polish": "Lubię pływać. Lubię również grać w tenisa.,",
+      "english": "I like to swim. Also, I like to play tennis."
+    },
+    {
+      "polish": "Wyglądasz o wiele lepiej z krótkimi włosami.",
+      "english": "You look much better with short hair."
+    },
+    {
+      "polish": "Mój samochód jest dużo szybszy od twojego.",
+      "english": "My car is much faster than yours."
+    },
+    {
+      "polish": "Mamy mnóstwo czasu.",
+      "english": "We've got plenty of time."
+    },
+    {
+      "polish": "Jest mnóstwo innych sposobów.",
+      "english": "There are plenty of other ways."
+    },
+    {
+      "polish": "Obawiam się, że nie mogę ci pomóc. Rozumiem.",
+      "english": "I'm afraid I can't help you. I see."
+    },
+    {
+      "polish": "On nie ma czasu, żeby z nami porozmawiać. Aha.",
+      "english": "He has no time to speak with us. I see."
+    },
+    {
+      "polish": "Przepraszam, czy to miejsce jest wolne?",
+      "english": "Excuse me, is this seat free?"
+    },
+    {
+      "polish": "Usiądź, proszę.",
+      "english": "Have a seat, please."
+    },
+    {
+      "polish": "Firma straciła kilku ważnych klientów.",
+      "english": "The company lost some important clients."
+    },
+    {
+      "polish": "Znaleźliśmy kilka ciekawych rzeczy.",
+      "english": "We found some interesting things."
+    },
+    {
+      "polish": "Nie mieliśmy czasu, żeby porozmawiać - tylko podał mi rękę i wyszedł z pokoju.",
+      "english": "We didn't have time to talk - he just gave me five and left the room."
+    },
+    {
+      "polish": "Myślę, że jest na mnie zły - nie chciał się ze mną przywitać, kiedy się spotkaliśmy.",
+      "english": "I think he's mad at me - he didn't want to give me five when we met."
+    },
+    {
+      "polish": "Rzecz, która sprawiła, że on był nieszczęśliwy było to, że nigdy nie dzielił się myślami z innymi.",
+      "english": "The thing which made him miserable was that he never shared his thoughts with anyone."
+    },
+    {
+      "polish": "Tom, czy chciałbyś się z nami podzielić swoimi myślami?",
+      "english": "Tom, would you like to share your thoughts with us?"
+    },
+    {
+      "polish": "Ile masz płyt CD?",
+      "english": "How many CDs do you have?"
+    },
+    {
+      "polish": "Ile osób przychodzi?",
+      "english": "How many people are coming?"
+    },
+    {
+      "polish": "Pakuj swoje rzeczy .",
+      "english": "Pack your things."
+    },
+    {
+      "polish": "Naprawdę musisz zacząć myśleć o swojej przyszłości. Ta, jasne.",
+      "english": "You really need to start thinking about your future. Yeah, whatever."
+    },
+    {
+      "polish": "Czy możesz mi pomóc? Jasne.",
+      "english": "Can you help me? Sure thing."
+    },
+    {
+      "polish": "Oni spędzili cały dzień w domu.",
+      "english": "They spent the entire day at home."
+    },
+    {
+      "polish": "Jej chłopak zjadł całe ciasto. Ona była taka zdenerwowana!",
+      "english": "Her boyfriend ate the entire cake. She was so annoyed!"
+    },
+    {
+      "polish": "Ona ma dwoje dzieci.",
+      "english": "She has two children."
+    },
+    {
+      "polish": "Bawiliśmy się razem jako dzieci.",
+      "english": "We played together as children."
+    },
+    {
+      "polish": "Chciałbym z wami porozmawiać o czymś poniekąd wielkim.",
+      "english": "I want to talk to you about something kind of big."
+    },
+    {
+      "polish": "Mamo, on jest tak jakby moim chłopakiem.",
+      "english": "Mom, he is kind of my boyfriend."
+    },
+    {
+      "polish": "Nie mam przy sobie żadnych pieniędzy.",
+      "english": "I don't have any money on me."
+    },
+    {
+      "polish": "Czy są jakieś pytania?",
+      "english": "Do you have any questions?"
+    },
+    {
+      "polish": "Sposób, w jaki to robisz jest całkowicie nieprawidłowy!",
+      "english": "The way you do this is completely wrong!"
+    },
+    {
+      "polish": "Kucharz pokazał im prawidłowy sposób krojenia marchewek.",
+      "english": "The chef showed them the correct way to chop carrots."
+    },
+    {
+      "polish": "On skacze przez płot.",
+      "english": "He is jumping over the fence."
+    },
+    {
+      "polish": "Lampa wisi nad stołem.",
+      "english": "The lamp is hanging over the table."
+    },
+    {
+      "polish": "Życzy sobie pani jeszcze wina? -Nie trzeba, dziękuję.",
+      "english": "-Would you like some more wine? -I'm good, thanks."
+    },
+    {
+      "polish": "-Spakuję ci resztki jedzenia, kochanie. -Nie, nie, wystarczy mi, mamo.",
+      "english": "-I'll pack you the leftovers, darling. -No, no, mom, I'm good."
+    },
+    {
+      "polish": "Oni zawsze budzą się przed 9 rano.",
+      "english": "They always wake up before 9 a.m."
+    },
+    {
+      "polish": "Czy mogę pożyczyć tę płytę CD?",
+      "english": "Can I borrow this CD?"
+    },
+    {
+      "polish": "Ta twoja dziewczyna, ile ona ma lat?",
+      "english": "This girlfriend of yours - how old is she?"
+    },
+    {
+      "polish": "Ta zupa jest zbyt słona.",
+      "english": "This soup is too salty."
+    },
+    {
+      "polish": "Ta sukienka jest zbyt droga, aby ją kupić.",
+      "english": "This dress is too expensive to buy it."
+    },
+    {
+      "polish": "Musisz bardziej się starać.",
+      "english": "You have to try more."
+    },
+    {
+      "polish": "Lubię cię bardziej niż myślisz.",
+      "english": "I like you more than you think."
+    },
+    {
+      "polish": "Musimy coś szybko zrobić.",
+      "english": "We've got to do something quickly."
+    },
+    {
+      "polish": "Nie musisz jeść tak szybko!",
+      "english": "You don't have to eat so quickly!"
+    },
+    {
+      "polish": "Jak dostałeś tę pracę?",
+      "english": "How did you get the job?"
+    },
+    {
+      "polish": "On nie był zbyt dobry w swojej pracy.",
+      "english": "He wasn't very good at his job."
+    },
+    {
+      "polish": "Dlaczego się tak zachowujesz?",
+      "english": "Why are you behaving like that?"
+    },
+    {
+      "polish": "Mamy trzy razy tyle uczniów.",
+      "english": "We have three times that many students."
+    },
+    {
+      "polish": "Nasze miasto zostało dotknięte przez zarazę.",
+      "english": "Our town was hit by the plague."
+    },
+    {
+      "polish": "Część moich krów zdechła przez zarazę.",
+      "english": "Some of my cows died of the plague."
+    },
+    {
+      "polish": "Kocham ją tak bardzo!",
+      "english": "I love her so much!"
+    },
+    {
+      "polish": "Wiesz, że cię kocham, prawda?",
+      "english": "You know I love you, don't you?"
+    },
+    {
+      "polish": "Proszę, proszę... Nie spodziewałem się, że cię tutaj spotkam.",
+      "english": "Well, well, well... I didn't expect to see you here."
+    },
+    {
+      "polish": "- On w końcu dostał pracę. - Coś takiego!",
+      "english": "- He finally got a job. - Fancy that!"
+    },
+    {
+      "polish": "Możesz zająć się dzieckiem przez chwilę, kochanie?",
+      "english": "Can you look after the baby for a while, dear?"
+    },
+    {
+      "polish": "Czy mógłbyś pomóc mi w kuchni, skarbie?",
+      "english": "Could you help me in the kitchen, dear?"
+    },
+    {
+      "polish": "Widzisz ten dom po lewej? Należy do Królowej.",
+      "english": "Do you see that house on the left? It belongs to the Queen."
+    },
+    {
+      "polish": "Nigdy wcześniej nie widziałem takiego dużego arbuza.",
+      "english": "I have never seen such a big watermelon."
+    },
+    {
+      "polish": "Spisałeś się świetnie.",
+      "english": "You performed great."
+    },
+    {
+      "polish": "Robisz to doskonale!",
+      "english": "You do it excellently!"
+    },
+    {
+      "polish": "To jest książka, której szukałem.",
+      "english": "This is the book that I was looking for."
+    },
+    {
+      "polish": "To jest chłopiec, którego poznałam wczoraj.",
+      "english": "This is the boy that I met yesterday."
+    },
+    {
+      "polish": "Mówię, całkiem niezła pogoda, w rzeczy samej.",
+      "english": "I say, quite a nice weather indeed."
+    },
+    {
+      "polish": "Numer wewnętrzny to dwa zera, trzy, siedem.",
+      "english": "The extension number is double oh, three, seven."
+    },
+    {
+      "polish": "On wkrótce zostanie ojcem.",
+      "english": "He'll become a father soon."
+    },
+    {
+      "polish": "Czy twój tato wie że przyszedłeś?",
+      "english": "Does your father know you've come?"
+    },
+    {
+      "polish": "To z pewnością spowoduje problemy.",
+      "english": "This will surely cause problems."
+    },
+    {
+      "polish": "Na pewno nie będę siedzieć i czekać.",
+      "english": "Surely I will not just sit and wait."
+    },
+    {
+      "polish": "Rok temu w Zambii zmarło 200 osób z powodu cholery.",
+      "english": "Last year there were some 200 cholera deaths in Zambia."
+    },
+    {
+      "polish": "Cholera! Przeciąłem sobie palec!",
+      "english": "Damn! I cut my finger!"
+    },
+    {
+      "polish": "Masz rację, to, co zrobiłem było złe.",
+      "english": "You're right, what I did was wrong."
+    },
+    {
+      "polish": "Ona mówi, że kobiety zawsze mają rację.",
+      "english": "She says that women are always right."
+    },
+    {
+      "polish": "Nie mogłem ani jeść, ani pić.",
+      "english": "I could neither eat nor drink."
+    },
+    {
+      "polish": "Ona nie pije ani herbaty, ani kawy.",
+      "english": "She drinks neither tea nor coffee."
+    },
+    {
+      "polish": "Nie wiedziałem, że on jest taki stary.",
+      "english": "I didn't know that he's so old."
+    },
+    {
+      "polish": "Ona mówi, że jest za stara, aby chodzić na imprezy.",
+      "english": "She says she's too old to go to parties."
+    },
+    {
+      "polish": "Oni mają troje dzieci.",
+      "english": "They have three children."
+    },
+    {
+      "polish": "Czy jest tu was troje?",
+      "english": "Are the three of you here?"
+    },
+    {
+      "polish": "Do zobaczenia później.",
+      "english": "See you later."
+    },
+    {
+      "polish": "Opowiesz mi o tym później?",
+      "english": "Will you tell me about it later?"
+    },
+    {
+      "polish": "Stanie przez tak długi czas sprawiło, że bolały mnie nogi.",
+      "english": "Standing for so long made my legs hurt."
+    },
+    {
+      "polish": "Czy mógłbyś się, proszę, tutaj zatrzymać?",
+      "english": "Could you stop here, please?"
+    },
+    {
+      "polish": "Dlaczego to ciągle tutaj jest?",
+      "english": "Why is it still here?"
+    },
+    {
+      "polish": "Nadal nie wiem co zrobić.",
+      "english": "I still don't know what to do."
+    },
+    {
+      "polish": "Przestań starać się robić więcej niż możesz.",
+      "english": "Cease trying to do more than you can."
+    },
+    {
+      "polish": "Ponieważ jutro, on może przestać być tym, którego znałaś.",
+      "english": "Because tomorrow, he may cease to exist as you know him."
+    },
+    {
+      "polish": "Moja mama jest nauczycielką.",
+      "english": "My mother is a teacher."
+    },
+    {
+      "polish": "Jadę na zakupy z moją mamą.",
+      "english": "I'm going shopping with my mother."
+    },
+    {
+      "polish": "Dawniej bycie zakochanym było łatwiejsze.",
+      "english": "Being in love was easier once."
+    },
+    {
+      "polish": "Czarownice były dawniej palone.",
+      "english": "Witches were once burned."
+    },
+    {
+      "polish": "Na twoim miejscu poczekałbym do jutra.",
+      "english": "If I were you, I'd wait until tomorrow."
+    },
+    {
+      "polish": "Co myślisz o tym, żeby jutro pójść na plażę?",
+      "english": "How about going to the beach tomorrow?"
+    },
+    {
+      "polish": "Jak długo się znacie?",
+      "english": "How long have you known each other?"
+    },
+    {
+      "polish": "To nie trwa długo.",
+      "english": "It doesn't take long."
+    },
+    {
+      "polish": "Mam nadzieję, że będziesz miał wspaniały weekend.",
+      "english": "I hope you have a wonderful weekend."
+    },
+    {
+      "polish": "Mam nadzieję, że to ci pomoże!",
+      "english": "I hope this will help you!"
+    },
+    {
+      "polish": "Operacja nie zakończy się, póki on i ta kurwa nie będą martwi.",
+      "english": "The operation will not be a success until he and that whore are dead."
+    },
+    {
+      "polish": "Ty zdziro, zdradziłaś mnie.",
+      "english": "You whore, you cheated on me."
+    },
+    {
+      "polish": "Bo widzisz, mam plan spotkać się z nią dzisiaj.",
+      "english": "You see, I have a plan to meet her today."
+    },
+    {
+      "polish": "Nie będziesz tego wiedział, póki nie spróbujesz.",
+      "english": "You won't know it until you try."
+    },
+    {
+      "polish": "Nie dam ci obiadu, dopóki nie posprzątasz w swoim pokoju.",
+      "english": "I won't give you dinner until you clean your room."
+    },
+    {
+      "polish": "Mój tata jest moim jedynym bohaterem.",
+      "english": "My dad is my only hero."
+    },
+    {
+      "polish": "Tato, kupisz mi loda?",
+      "english": "Dad, will you buy me an ice cream?"
+    },
+    {
+      "polish": "Myślę, że mamy problem.",
+      "english": "I think we've got a problem."
+    },
+    {
+      "polish": "Był tylko jeden problem.",
+      "english": "There was only one problem."
+    },
+    {
+      "polish": "Każdy był trochę inny.",
+      "english": "Each one was a little different."
+    },
+    {
+      "polish": "Oni popatrzyli na siebie nawzajem.",
+      "english": "They looked at each other."
+    },
+    {
+      "polish": "Zaczynała zapadać noc.",
+      "english": "Night was beginning to fall."
+    },
+    {
+      "polish": "Co tutaj robisz o tej porze nocy?",
+      "english": "What are you doing here at this time of night?"
+    },
+    {
+      "polish": "Czy mógłbyś to powiedzieć jeszcze raz?",
+      "english": "Could you say that again?"
+    },
+    {
+      "polish": "On znowu się spóźnił.",
+      "english": "He was late again."
+    },
+    {
+      "polish": "Naprawdę tego potrzebuję.",
+      "english": "I really need it."
+    },
+    {
+      "polish": "Potrzebna jest nowa bateria do aparatu.",
+      "english": "The camera needs a new battery."
+    },
+    {
+      "polish": "Nie jestem już dzieckiem!",
+      "english": "I'm not a child anymore!"
+    },
+    {
+      "polish": "Pamiętam go głównie jako dziecko.",
+      "english": "I remember him mostly as a child."
+    },
+    {
+      "polish": "Czy słuchasz?",
+      "english": "Are you listening?"
+    },
+    {
+      "polish": "Czy słuchasz muzyki rockowej?",
+      "english": "Do you listen to rock music?"
+    },
+    {
+      "polish": "Służby ratownicze próbują zlokalizować wrak statku.",
+      "english": "Rescue services are trying to locate the shipwreck."
+    },
+    {
+      "polish": "Nie potrafię zlokalizować tego dźwięku.",
+      "english": "I can't locate this sound."
+    },
+    {
+      "polish": "Ten ser ma najlepszą jakość.",
+      "english": "This cheese is of prime quality."
+    },
+    {
+      "polish": "Naszą najważniejszą zasadą jest wzajemna miłość.",
+      "english": "Our prime rule is to love each other."
+    },
+    {
+      "polish": "On powiedział, że jestem mu winien pieniądze.",
+      "english": "He said I owed him money."
+    },
+    {
+      "polish": "Nie powiedziałem jej, że zrobiłeś to dla pieniędzy.",
+      "english": "I didn't tell her you did it for money."
+    },
+    {
+      "polish": "To było dokładnie to, czego potrzebowałem!",
+      "english": "It was just what I needed!"
+    },
+    {
+      "polish": "Ona wygląda dokładnie tak, jak jej siostra.",
+      "english": "She looks just like her sister."
+    },
+    {
+      "polish": "Tracimy czas.",
+      "english": "We're wasting time."
+    },
+    {
+      "polish": "Musimy coś z tym zrobić.",
+      "english": "We have to do something about it."
+    },
+    {
+      "polish": "Ona sama powie ci prawdę.",
+      "english": "She will tell you the truth herself."
+    },
+    {
+      "polish": "Myślę, że ona ma problemy sama ze sobą.",
+      "english": "I think she has issues with herself."
+    },
+    {
+      "polish": "On poczuł ból w swojej nodze.",
+      "english": "He felt a pain in his leg."
+    },
+    {
+      "polish": "Czuję się podenerwowany. Nie mogę się zrelaksować.",
+      "english": "I feel nervous. I can't relax."
+    },
+    {
+      "polish": "Ona poprosiła nas o pomoc.",
+      "english": "She asked for our help."
+    },
+    {
+      "polish": "Oni przeszukali nasze torby na lotnisku.",
+      "english": "They searched our bags at the airport."
+    },
+    {
+      "polish": "Gdyby on tutaj był, moglibyśmy go zapytać.",
+      "english": "Now if he was here, we could've asked him."
+    },
+    {
+      "polish": "Gdybym był młodszy, byłbym w stanie tak zatańczyć.",
+      "english": "Now if I were younger, I would have been able to dance like this."
+    },
+    {
+      "polish": "Jaka ona jest?",
+      "english": "What is she like?"
+    },
+    {
+      "polish": "Jaki jest twój ulubiony kolor?",
+      "english": "What is your favourite colour?"
+    },
+    {
+      "polish": "Moi dziadkowie są ludźmi kochającymi spokój.",
+      "english": "My grandparents are peace-loving people."
+    },
+    {
+      "polish": "Potrzebuję spokoju i ciszy, by się uczyć.",
+      "english": "I need peace and quiet to study."
+    },
+    {
+      "polish": "Dokąd idziecie?",
+      "english": "Where are you going?"
+    },
+    {
+      "polish": "Czy jesteście oboje gotowi?",
+      "english": "Are you two ready?"
+    },
+    {
+      "polish": "Ogrzewanie samo się włącza.",
+      "english": "The heating turns itself on."
+    },
+    {
+      "polish": "To się rozumie samo przez się.",
+      "english": "This is obvious by itself."
+    },
+    {
+      "polish": "To spotkanie dobiegło końca.",
+      "english": "This meeting has come to an end."
+    },
+    {
+      "polish": "To jest koniec filmu.",
+      "english": "This is the end of the film."
+    },
+    {
+      "polish": "W minionych dniach byliśmy dużo szczęśliwsi.",
+      "english": "In the past days we were much happier."
+    },
+    {
+      "polish": "Kilka minionych miesięcy było trudnych.",
+      "english": "The past few months have been difficult."
+    },
+    {
+      "polish": "Czy znasz go?",
+      "english": "Do you know him?"
+    },
+    {
+      "polish": "Nie znam jej zbyt dobrze.",
+      "english": "I don't know her very well."
+    },
+    {
+      "polish": "Proszę zostać w samochodzie.",
+      "english": "Please stay in the car."
+    },
+    {
+      "polish": "Na twoim miejscu zostałbym w domu jutrzejszej nocy.",
+      "english": "If I were you I'd stay at home tomorrow night."
+    },
+    {
+      "polish": "Chciałabym zadać ci pytanie.",
+      "english": "I would like to ask you a question."
+    },
+    {
+      "polish": "Chcielibyśmy już iść.",
+      "english": "We would like to go now."
+    },
+    {
+      "polish": "Och, nie mów tak do mnie!, Arrah",
+      "english": "don't talk to me like that!"
+    },
+    {
+      "polish": "Spójrz w górę! Co to za ptak?",
+      "english": "Look up! What bird is that?"
+    },
+    {
+      "polish": "Spójrz w lewo. Czy to jest yeti?",
+      "english": "Look to the left. Is that a yeti?"
+    },
+    {
+      "polish": "Nigdy wcześniej nie widziałem tego filmu.",
+      "english": "I have never seen this film before."
+    },
+    {
+      "polish": "Ja go wcześniej widziałem.",
+      "english": "I've seen him before."
+    },
+    {
+      "polish": "Nie mogę bez ciebie żyć.",
+      "english": "I can't live without you."
+    },
+    {
+      "polish": "On żył 83 lata.",
+      "english": "He lived to the age of 83."
+    },
+    {
+      "polish": "Oni zabili go i wrzucili ciało do rzeki.",
+      "english": "They killed him and threw the body into the river."
+    },
+    {
+      "polish": "Słyszałem, że ktoś próbował zabić naszego króla - czy to prawda?",
+      "english": "I heard that someone tried to kill our king - is this true?"
+    },
+    {
+      "polish": "Nazywa się Kate Smith.",
+      "english": "Her name is Kate Smith."
+    },
+    {
+      "polish": ",,Jak się nazywasz? ,,John.",
+      "english": "'What's your name?' 'John.'"
+    },
+    {
+      "polish": "Przez chwilę myślałem, że kłamiesz.",
+      "english": "For a while I thought you were lying."
+    },
+    {
+      "polish": "Czy mógłbyś chwilę poczekać?",
+      "english": "Could you wait for a while?"
+    },
+    {
+      "polish": "Napisanie książki zajęło mu dwa lata.",
+      "english": "It took him two years to write the book."
+    },
+    {
+      "polish": "On rozmawiał z innym mężczyzną.",
+      "english": "He was conversing with another man."
+    },
+    {
+      "polish": "Czy możecie rozmawiać trochę ciszej?",
+      "english": "Can you converse a little quieter?"
+    },
+    {
+      "polish": "Droga biegnie dalej za wioską.",
+      "english": "The road continues beyond the village."
+    },
+    {
+      "polish": "Ten las wychodzi daleko poza naszą ziemię.",
+      "english": "This forest goes far beyond our land."
+    },
+    {
+      "polish": "Film trwa tylko czterdzieści minut.",
+      "english": "The movie is only forty minutes long."
+    },
+    {
+      "polish": "Przyjdę do kawiarni za dwadzieścia minut.",
+      "english": "I'll meet you in the café in twenty minutes."
+    },
+    {
+      "polish": "W czym mogę Panu pomóc?",
+      "english": "What can I help you with, sir?"
+    },
+    {
+      "polish": "Proszę pana, czy to pański samochód?",
+      "english": "Is this your car, sir?"
+    },
+    {
+      "polish": "Czy zamknąłeś drzwi na klucz?",
+      "english": "Did you lock the door?"
+    },
+    {
+      "polish": "Drzwi do jej pokoju były zamknięte.",
+      "english": "The door to her room was locked."
+    },
+    {
+      "polish": "Ależ miło spędzony dzień.",
+      "english": "What a nicely spent day."
+    },
+    {
+      "polish": "Posłuchaj, próbowałem z nią rozmawiać, ale ona jest bardzo uparta.",
+      "english": "Look, I've tried speaking to her, but she is very stubborn."
+    },
+    {
+      "polish": "Posłuchaj, jesteś piękna niezależnie od tego, co oni mówią.",
+      "english": "Look, you are beautiful no matter what they say."
+    },
+    {
+      "polish": "Jestem prawie gotowy.",
+      "english": "I'm almost ready."
+    },
+    {
+      "polish": "Prawie spóźniliśmy się na nasz pociąg.",
+      "english": "We almost missed our train."
+    },
+    {
+      "polish": "Nie pamiętam, kogo wczoraj widziałem.",
+      "english": "I don't remember whom I saw yesterday."
+    },
+    {
+      "polish": "Oni śmiali się z kilku ludzi, których znali.",
+      "english": "They laughed at some people whom they knew."
+    },
+    {
+      "polish": "Ma 20 lat, ale wygląda jakby miał 40.",
+      "english": "He's 20 years old but looks as if he was 40."
+    },
+    {
+      "polish": "Oni żyją tak, jak gdyby nic nigdy się nie stało.",
+      "english": "They live as if nothing ever happened."
+    },
+    {
+      "polish": "Na płocie był kot.",
+      "english": "There was a cat on the fence."
+    },
+    {
+      "polish": "Wróć do tego, proszę. Nie zrozumiałem.",
+      "english": "Back up, please. I didn't get it."
+    },
+    {
+      "polish": "Poczekaj chwilę, zaraz wracam.",
+      "english": "W8 a sec, BRB."
+    },
+    {
+      "polish": "Każdy człowiek jest odpowiedzialny za swoje własne czyny.",
+      "english": "Every man is responsible for his own actions."
+    },
+    {
+      "polish": "Każdy człowiek ma taką chwilę w swoim życiu, kiedy musi dokonać wyboru.",
+      "english": "Every man has a moment in his life when he has to make a choice."
+    },
+    {
+      "polish": "Nie ma powodu do paniki, powiedziała spokojnie Ann.",
+      "english": "There's no reason to panic, Ann said calmly."
+    },
+    {
+      "polish": "Nie widzę żadnego powodu dla którego powinienem ci zaufać.",
+      "english": "I can't think of a single reason why I should trust you."
+    },
+    {
+      "polish": "Powinieneś czytać więcej książek.",
+      "english": "You should read more books."
+    },
+    {
+      "polish": "Powinieneś rzucić palenie.",
+      "english": "You should give up smoking."
+    },
+    {
+      "polish": "Bardzo lubię Jane.",
+      "english": "I like Jane very much."
+    },
+    {
+      "polish": "Najbardziej podoba mi się ten niebieski.",
+      "english": "I like the blue one best."
+    },
+    {
+      "polish": "Musiałem zostawić gdzieś moje okulary.",
+      "english": "I must have left my glasses somewhere."
+    },
+    {
+      "polish": "Pójdziemy gdzieś i wypijemy filiżankę kawy.",
+      "english": "We'll go somewhere and have a cup of coffee."
+    },
+    {
+      "polish": "Pomimo wszystko, nie było tak źle.",
+      "english": "It wasn't so bad, after all."
+    },
+    {
+      "polish": "Chile jest, mimo wszystko, ciekawym krajem do zwiedzenia.",
+      "english": "Chile is, after all, an interesting country to visit."
+    },
+    {
+      "polish": "Tabloidy zwykle opisują sprawy celebrytów.",
+      "english": "Tabloids usually describe celebrities' affairs."
+    },
+    {
+      "polish": "Dział spraw studenckich jest w głównym budynku uniwersytetu.",
+      "english": "The department of student affairs is in the main building of the university."
+    },
+    {
+      "polish": "- Jest coś, o czym muszę ci powiedzieć... - Wal!",
+      "english": "- There's something I need to tell you... - Shoot!"
+    },
+    {
+      "polish": "Mogę ci zadać pytanie? Jasne, wal.",
+      "english": "Can I ask you a question? Sure, shoot."
+    },
+    {
+      "polish": "To było prawie dwa wieki temu.",
+      "english": "That was nearly two centuries ago."
+    },
+    {
+      "polish": "Ratusz został zbudowany w XVI wieku.",
+      "english": "The city hall was built in the 16th century."
+    },
+    {
+      "polish": "To był jego pomysł!",
+      "english": "It was his idea!"
+    },
+    {
+      "polish": "Nie chciałem tego mówić, ale to jest naprawdę zły pomysł.",
+      "english": "I didn't want to say it, but it's a really bad idea."
+    },
+    {
+      "polish": "Nosisz broń przy sobie?",
+      "english": "Do you carry a weapon with you?"
+    },
+    {
+      "polish": "Kiedy dostanę nową broń, będę gotowy walczyć!",
+      "english": "When I get a new weapon I will be ready to fight!"
+    },
+    {
+      "polish": "Dwa razy dwa równa się cztery.",
+      "english": "Two times two equals four."
+    },
+    {
+      "polish": "Ona nie wiedziała jak obliczyć 8 razy 6.",
+      "english": "She didn't know how to calculate eight times six."
+    },
+    {
+      "polish": "Pamiętam, że mówił coś innego.",
+      "english": "I remember him saying something else."
+    },
+    {
+      "polish": "Teraz chciałbym spróbować czegoś innego.",
+      "english": "Now I would like to try something else."
+    },
+    {
+      "polish": "Jestem naprawdę wdzięczny za twoją pomoc.",
+      "english": "I'm really grateful for your help."
+    },
+    {
+      "polish": "Nie powinieneś liczyć na jego pomoc.",
+      "english": "You shouldn't count on his help."
+    },
+    {
+      "polish": "Czy lubisz Johna? Tak, to miły facet.",
+      "english": "Do you like John? Yes, he is a nice guy."
+    },
+    {
+      "polish": "Kim jest ten gość i co on tu robi?",
+      "english": "Who is this guy and what is he doing here?"
+    },
+    {
+      "polish": "Podoba mi się twoja oferta, jednakże nie mam aż tylu pieniędzy.",
+      "english": "I like your offer, but I don't have that much money."
+    },
+    {
+      "polish": "Kocham cię, jednakże Sama kocham bardziej.",
+      "english": "I love you, but I love Sam more."
+    },
+    {
+      "polish": "Bardzo podobała mi się ta książka.",
+      "english": "I liked this book very much."
+    },
+    {
+      "polish": "Moja mama naprawdę dobrze się bawiła podczas show w niedzielę.",
+      "english": "My mother really enjoyed the show on Sunday."
+    },
+    {
+      "polish": "Czy jest wystarczająco pizzy dla każdego?",
+      "english": "Is there enough pizza for everyone?"
+    },
+    {
+      "polish": "Naprawdę chciałbym pojechać, ale nie mam wystarczająco dużo pieniędzy.",
+      "english": "I'd really like to go, but I don't have enough money."
+    },
+    {
+      "polish": "Kiepsko spałem tamtej nocy.",
+      "english": "I slept badly that night."
+    },
+    {
+      "polish": "On mówi bardzo źle po niemiecku.",
+      "english": "He speaks German very badly."
+    },
+    {
+      "polish": "Właściwie, to sądzę, że on jest całkiem miły., In fact",
+      "english": "I think he's rather nice."
+    },
+    {
+      "polish": "Nie chcę tam więcej jechać. Właściwie to nigdy nie chciałem.",
+      "english": "I don't want to go there anymore. In fact, I never did."
+    },
+    {
+      "polish": "Nie widziałem go od dawna.",
+      "english": "I haven't seen him for ages."
+    },
+    {
+      "polish": "Czekam tu od wieków.",
+      "english": "I've been waiting here for ages."
+    },
+    {
+      "polish": "Nie pamiętam jej w ogóle.",
+      "english": "I don't remember her at all."
+    },
+    {
+      "polish": "Pamiętam, że spotkałem go raz lub dwa razy.",
+      "english": "I remember meeting him once or twice."
+    },
+    {
+      "polish": "Czy mogę dostać pokój na najwyższym piętrze?",
+      "english": "Can I get a room on the top floor?"
+    },
+    {
+      "polish": "On zdecydował się zostać w swoim pokoju.",
+      "english": "He decided to stay in his room."
+    },
+    {
+      "polish": "Czy jesteś pewien, że jej nie znasz?",
+      "english": "Are you sure you don't know her?"
+    },
+    {
+      "polish": "Nie jestem pewien, kiedy zaczyna się koncert.",
+      "english": "I'm not sure when the concert starts."
+    },
+    {
+      "polish": "Mam tyle spraw do załatwienia i tak mało czasu.",
+      "english": "I have so many things to do and so little time."
+    },
+    {
+      "polish": "Powinieneś zająć się tą sprawą, zanim pójdziesz do domu.",
+      "english": "You should take care of this thing before you go home."
+    },
+    {
+      "polish": "On znowu jest sobą.",
+      "english": "He's his normal self again."
+    },
+    {
+      "polish": "Straciłem poczucie własnej osobowości.",
+      "english": "I've lost the sense of my own self."
+    },
+    {
+      "polish": "Nie kupiłem jej prezentu, ponieważ nie byłem zaproszony na przyjęcie.",
+      "english": "I didn't buy her a gift since I wasn't invited to the party."
+    },
+    {
+      "polish": "Jako że nie jestem królikiem, nie będę jadł sałatki.",
+      "english": "Since I am not a rabbit, I will not eat a salad."
+    },
+    {
+      "polish": "Komu powiedziałeś o naszej decyzji?",
+      "english": "Whom did you tell about our decision?"
+    },
+    {
+      "polish": "Znasz ludzi, z którymi musimy pracować?",
+      "english": "Do you know the people with whom we need to work?"
+    },
+    {
+      "polish": "On zamknął drzwi.",
+      "english": "He closed the door."
+    },
+    {
+      "polish": "Nie martw się o swój pierścionek - zamknę go w pudełku.",
+      "english": "Don't worry about your ring - I'll case it in the box."
+    },
+    {
+      "polish": "To jest ta dziewczyna, o której ci mówiłem.",
+      "english": "This is the girl I've been telling you about."
+    },
+    {
+      "polish": "Położyłem jabłko na stole. Jabłko jest czerwone.",
+      "english": "I put an apple on a table. The apple is red."
+    },
+    {
+      "polish": "Trochę za tobą nie nadążam.",
+      "english": "I don't quite follow you."
+    },
+    {
+      "polish": "I my powinniśmy za tym nadążać!",
+      "english": "And we're supposed to follow that!"
+    },
+    {
+      "polish": "Usłyszeliśmy zbliżający się pojazd.",
+      "english": "We heard a vehicle approaching."
+    },
+    {
+      "polish": "Gdzie jest twój pojazd?",
+      "english": "Where's your vehicle?"
+    },
+    {
+      "polish": "Ona śmiała się do siebie po cichu.",
+      "english": "She was laughing quietly to herself."
+    },
+    {
+      "polish": "On otworzył cicho drzwi.",
+      "english": "He quietly opened the door."
+    },
+    {
+      "polish": "Masz piękne oczy.",
+      "english": "You've got beautiful eyes."
+    },
+    {
+      "polish": "On ma niebieskie oczy.",
+      "english": "He has blue eyes."
+    },
+    {
+      "polish": "Mój kot jest mały.",
+      "english": "My cat is small."
+    },
+    {
+      "polish": "Ta koszulka jest na mnie za mała.",
+      "english": "This T-shirt is too small for me."
+    },
+    {
+      "polish": "Proszę, przywitajcie waszą nową koleżankę, Kate.",
+      "english": "Please, welcome your new classmate Kate."
+    },
+    {
+      "polish": "Czy to twoja nowa dziewczyna? Jest prześliczna!",
+      "english": "Is this your new girlfriend? She's gorgeous!"
+    },
+    {
+      "polish": "Ktoś włamał się do ich domu w czasie, gdy oni spali.",
+      "english": "Someone broke into their house while they were sleeping."
+    },
+    {
+      "polish": "Zrobię to, w trakcie gdy ty pójdziesz na zakupy.",
+      "english": "I'll do it while you go shopping."
+    },
+    {
+      "polish": "Wystarczy, zrywam z tobą.",
+      "english": "That's it, I'm breaking up with you."
+    },
+    {
+      "polish": "Wystarczy!",
+      "english": "Enough!"
+    },
+    {
+      "polish": "Nie widziałem go od wczoraj.",
+      "english": "I haven't seen him since yesterday."
+    },
+    {
+      "polish": "On przyjechał wczoraj rano.",
+      "english": "He arrived yesterday morning."
+    },
+    {
+      "polish": "Czy oglądałeś wiadomości dzisiaj rano?",
+      "english": "Did you see the news this morning?"
+    },
+    {
+      "polish": "Mam dużo do zrobienia do rana.",
+      "english": "I have a lot to do before morning."
+    },
+    {
+      "polish": "Jakie jest największe miasto na świecie?",
+      "english": "What is the world's largest city?"
+    },
+    {
+      "polish": "Zawsze chciałem podróżować dookoła świata.",
+      "english": "I've always wanted to travel around the world."
+    },
+    {
+      "polish": "On nigdy by nie pozwolił na taką rzecz!",
+      "english": "He would never allow such a thing!"
+    },
+    {
+      "polish": "Myślisz, że pozwoliliby na to?",
+      "english": "Do you think they would allow that?"
+    },
+    {
+      "polish": "Weź mnie za rękę i powiedz, że mnie kochasz.",
+      "english": "Take my hand and say that you love me."
+    },
+    {
+      "polish": "Wezmę psa na spacer.",
+      "english": "I'll take the dog for a walk."
+    },
+    {
+      "polish": "On jest właścicielem jednej czwartej firmy.",
+      "english": "He owns one-fourth of the company."
+    },
+    {
+      "polish": "Mój ojciec jest w jednej czwartej Włochem.",
+      "english": "My father is one-fourth Italian."
+    },
+    {
+      "polish": "Oto ona, taka młoda i piękna.",
+      "english": "There she goes, so young and beautiful."
+    },
+    {
+      "polish": "Oto my, pracujący wspólnie w celu wzmocnienia naszego kraju.",
+      "english": "There we go, working together on strengthening our country."
+    },
+    {
+      "polish": "On został poważnie ranny w wypadku.",
+      "english": "He was seriously injured in the accident."
+    },
+    {
+      "polish": "Jestem bardzo chory, więc nie mogę dzisiaj iść do szkoły.",
+      "english": "I'm seriously ill, so I can't go to school today."
+    },
+    {
+      "polish": "Ona obiecała, że da mi tę książkę na urodziny.",
+      "english": "She promised to give me this book for my birthday."
+    },
+    {
+      "polish": "Dałem jej ładny prezent.",
+      "english": "I gave her a nice present."
+    },
+    {
+      "polish": "Ona poszła odebrać telefon.",
+      "english": "She went to answer the telephone."
+    },
+    {
+      "polish": "Ona wytarła chusteczką telefon.",
+      "english": "She wiped the phone with a tissue."
+    },
+    {
+      "polish": "W najnowszym numerze jest artykuł o motocyklach.",
+      "english": "There's an article on motorbikes in the latest issue."
+    },
+    {
+      "polish": "Stare wydanie jego wierszy leżało na jej stoliku.",
+      "english": "An old issue of his poems lay on her table."
+    },
+    {
+      "polish": "Jak nazywała się tamta dziewczyna?",
+      "english": "What was the name of that girl?"
+    },
+    {
+      "polish": "Ona jest bardzo ładną dziewczynką.",
+      "english": "She is a very pretty girl."
+    },
+    {
+      "polish": "Nasz nowy prokurator okręgowy, Harvey Dent, spełni tę obietnicę.",
+      "english": "Our new District Attorney, Harvey Dent, will carry out that promise."
+    },
+    {
+      "polish": "Czy masz coś innego do powiedzenia?",
+      "english": "Do you have anything else to say?"
+    },
+    {
+      "polish": "Czy chcesz coś do jedzenia?",
+      "english": "Do you want anything to eat?"
+    },
+    {
+      "polish": "To nie moja wina!",
+      "english": "It's not my fault!"
+    },
+    {
+      "polish": "To jego wina, że oni nas nie lubią!",
+      "english": "It is his fault that they don't like us!"
+    },
+    {
+      "polish": "Czy mógłbyś to przez chwilę potrzymać?",
+      "english": "Could you hold it for a moment?"
+    },
+    {
+      "polish": "Jessica przysunęła się, żeby go potrzymać.",
+      "english": "Jessica moved up to hold him."
+    },
+    {
+      "polish": "Jej śmierć jest stratą dla Europy i świata.",
+      "english": "Her death is a loss for Europe and the world."
+    },
+    {
+      "polish": "Chcę być z tobą, dopóki śmierć nas nie rozłączy.",
+      "english": "I plan on being with you until death do us part."
+    },
+    {
+      "polish": "Nie będzie mnie tutaj, kiedy wrócisz.",
+      "english": "I'm not going to be here when you get back."
+    },
+    {
+      "polish": "Wróciłem do pierwszego rozdziału książki.",
+      "english": "I got back to the first chapter of the book."
+    },
+    {
+      "polish": "Aureola otacza księżyc.",
+      "english": "A halo surrounds the moon."
+    },
+    {
+      "polish": "Anioły są zwykle przedstawiane z aureolą nad głową.",
+      "english": "Angels are commonly depicted wearing a halo over their heads."
+    },
+    {
+      "polish": "Muszę kupić przynajmniej jedno ciasto.",
+      "english": "I need to buy at least one cake."
+    },
+    {
+      "polish": "Ona chciała to zrobić przynajmniej raz.",
+      "english": "She wanted to do it at least once."
+    },
+    {
+      "polish": "To o wiele mniej akt, niż ci pierwotnie dałem.",
+      "english": "That's a lot less files than I originally gave you."
+    },
+    {
+      "polish": "Spotykanie nowych ludzi jest bardziej skomplikowane niż początkowo myślałem.",
+      "english": "Meeting new people is a lot more complicated than I'd originally thought."
+    },
+    {
+      "polish": "Czy mogę zadać ci pytanie?",
+      "english": "Can I ask you a question?"
+    },
+    {
+      "polish": "Mam do ciebie pytanie.",
+      "english": "I've got a question for you."
+    },
+    {
+      "polish": "On siedzi pomiędzy nimi.",
+      "english": "He is sitting between them."
+    },
+    {
+      "polish": "Jedzenie między posiłkami nie jest zdrowe.",
+      "english": "Eating between meals isn't healthy."
+    },
+    {
+      "polish": "W roku 1976 w wyniku przerwania zapory w Chinach zginęło 26 tysięcy osób.",
+      "english": "In 1976, 26 000 people died when a dam broke in China."
+    },
+    {
+      "polish": "Czy jesteś pewny, że tama jest wystarczająco mocna, aby uchronić nas przed powodzią?",
+      "english": "Are you sure the dam is strong enough to protect us from a flooding?"
+    },
+    {
+      "polish": "Chcę cię znów zobaczyć.",
+      "english": "I want to see you again."
+    },
+    {
+      "polish": "Czy chcesz ponownie obejrzeć ten film?",
+      "english": "Do you want to see that film again?"
+    },
+    {
+      "polish": "Czy masz jakieś inne pomysły?",
+      "english": "Do you have any other ideas?"
+    },
+    {
+      "polish": "Ziemia była zaśmiecona plastikowymi butelkami i innymi śmieciami.",
+      "english": "The ground was littered with plastic bottles and other rubbish."
+    },
+    {
+      "polish": "To jest tylko dla kobiet.",
+      "english": "It's only for women."
+    },
+    {
+      "polish": "Kobiety są piękne.",
+      "english": "Women are beautiful."
+    },
+    {
+      "polish": "Chciałeś kiedyś cofnąć się w czasie i postąpić inaczej?",
+      "english": "Do you ever want to go back and do things differently?"
+    },
+    {
+      "polish": "Mogłem zrobić dużo rzeczy inaczej.",
+      "english": "I could have done a lot of things differently."
+    },
+    {
+      "polish": "To brzmi świetnie!",
+      "english": "That sounds great!"
+    },
+    {
+      "polish": "Ona nie brzmiała zbyt entuzjastycznie.",
+      "english": "She didn't sound very enthusiastic."
+    },
+    {
+      "polish": "Ta maszyna przyjmuje tylko papierowe pieniądze.",
+      "english": "This machine accepts only stamps."
+    },
+    {
+      "polish": "Miłość jest w powietrzu.",
+      "english": "Love is in the air."
+    },
+    {
+      "polish": "Byłaś moją jedyną miłością.",
+      "english": "You have been my only love."
+    },
+    {
+      "polish": "Ona była całkiem sama.",
+      "english": "She was all alone."
+    },
+    {
+      "polish": "Jesteś całkiem szczęśliwy, co się stało?",
+      "english": "You're all happy, what's happened?"
+    },
+    {
+      "polish": "Nie chcę złamać prawa.",
+      "english": "I don't want to break the law."
+    },
+    {
+      "polish": "Zawsze przestrzegam prawa.",
+      "english": "I always obey the law."
+    },
+    {
+      "polish": "Oni przeszli obok, trzymając się za ręce.",
+      "english": "They walked by, holding hands."
+    },
+    {
+      "polish": "Ona napisała coś na wierzchu swojej dłoni.",
+      "english": "She wrote something on the back of her hand."
+    },
+    {
+      "polish": "To było jedno z najlepszych tłumaczeń wierszy Herberta, jakie kiedykolwiek czytałem.",
+      "english": "It was one of the best translations of Herbert's poems I've ever read."
+    },
+    {
+      "polish": "Dostałem tłumaczenie jego książki!",
+      "english": "I got the translation of his book!"
+    },
+    {
+      "polish": "Po prostu nie mogę w to uwierzyć.",
+      "english": "I just can't believe it."
+    },
+    {
+      "polish": "Czy naprawdę w to wierzysz?",
+      "english": "Do you really believe that?"
+    },
+    {
+      "polish": "Jeżeli zobaczysz coś dziwnego, daj znać nadzorcom.",
+      "english": "Should you see anything weird, let supers know."
+    },
+    {
+      "polish": "Jeśli chcesz zmienić coś w swoim mieszkaniu, powinieneś poprosić nadzorcę budynku o zgodę.",
+      "english": "If you want to change something in your apartment, you should ask the super of the building for permission."
+    },
+    {
+      "polish": "Zazwyczaj noszę rozmiar S.",
+      "english": "I usually wear S size."
+    },
+    {
+      "polish": "Czy są te koszule w rozmiarze małym?",
+      "english": "Do these shirts come in small size?"
+    },
+    {
+      "polish": "Jak to może być, że ona to powiedziała?",
+      "english": "How could she possibly say that?"
+    },
+    {
+      "polish": "Nie będzie mnie przez miesiąc, możliwe, że dłużej.",
+      "english": "I'll be away for a month, possibly longer."
+    },
+    {
+      "polish": "Ten zegarek jest dla mnie za drogi.",
+      "english": "This watch is too expensive for me."
+    },
+    {
+      "polish": "Ona kupiła bardzo drogą sukienkę.",
+      "english": "She bought a very expensive dress."
+    },
+    {
+      "polish": "To jest dla mnie bardzo ważne.",
+      "english": "It's very important for me."
+    },
+    {
+      "polish": "Dlaczego to jest dla nich takie ważne?",
+      "english": "Why is it so important to them?"
+    },
+    {
+      "polish": "Czy widzisz tę kobietę stojącą tam?",
+      "english": "Do you see that woman over there?"
+    },
+    {
+      "polish": "Ona jest piękną kobietą.",
+      "english": "She is a beautiful woman."
+    },
+    {
+      "polish": "Przepraszam, nie słyszę cię.",
+      "english": "Sorry, I can't hear you."
+    },
+    {
+      "polish": "Ona nagle usłyszała głos na zewnątrz.",
+      "english": "Suddenly, she heard a voice outside."
+    },
+    {
+      "polish": "Czy poznałeś moją żonę?",
+      "english": "Have you met my wife?"
+    },
+    {
+      "polish": "Moja żona nie będzie z tego zadowolona.",
+      "english": "My wife won't be happy about that."
+    },
+    {
+      "polish": "Chwileczkę, proszę., Just a moment",
+      "english": "please."
+    },
+    {
+      "polish": "Nikt nic nie mówił przez chwilę lub dwie.",
+      "english": "No one spoke for a moment or two."
+    },
+    {
+      "polish": "Oświadczenie powinno być naukowo uzasadnione z uwzględnieniem ogółu dostępnych danych naukowych oraz poprzez ocenę mocy naukowej dowodów.",
+      "english": "A claim should be scientifically substantiated by taking into account the totality of the scientific data available, and by weighing up the evidence."
+    },
+    {
+      "polish": "Całokształt jego dzieł jest dostępny w bibliotece.",
+      "english": "The totality of his works is available in the library."
+    },
+    {
+      "polish": "Musimy działać szybko.",
+      "english": "We need to act quickly."
+    },
+    {
+      "polish": "Musisz działać ostrożnie.",
+      "english": "You must act with caution."
+    },
+    {
+      "polish": "Poznałam twoją siostrę w zeszłym roku.",
+      "english": "I got to know your sister last year."
+    },
+    {
+      "polish": "Powinniśmy zapoznać się z okolicą.",
+      "english": "We should get to know the neighbourhood."
+    },
+    {
+      "polish": "Czy chciałbyś wziąć udział w naszej grze?",
+      "english": "Would you like to take part in our game?"
+    },
+    {
+      "polish": "Ona zawsze uwielbiała grać w gry.",
+      "english": "She has always loved playing games."
+    },
+    {
+      "polish": "Jest dopiero piąta.",
+      "english": "It's only five o'clock."
+    },
+    {
+      "polish": "Dopiero co zaczęliśmy!",
+      "english": "We have only started!"
+    },
+    {
+      "polish": "Jej serce zabiło trochę szybciej.",
+      "english": "Her heart beat a little faster."
+    },
+    {
+      "polish": "Mój ojciec ma problemy z sercem.",
+      "english": "My father has a heart condition."
+    },
+    {
+      "polish": "Ona patrzy na rybki.",
+      "english": "She is looking at the fish."
+    },
+    {
+      "polish": "Popatrz na to!",
+      "english": "Look at this!"
+    },
+    {
+      "polish": "Dostałem to od mojego taty.",
+      "english": "I got it from my father."
+    },
+    {
+      "polish": "Czy dostałeś ten adres",
+      "english": "Tom?, Did you get that address, Tom?"
+    },
+    {
+      "polish": "Ona przywitała swojego męża radośnie.",
+      "english": "She greeted her husband cheerfully."
+    },
+    {
+      "polish": "Uczniowie przywitali swojego nowego nauczyciela piosenką.",
+      "english": "Pupils greeted their new teacher with a song."
+    },
+    {
+      "polish": "Taka moc nie pochodzi od diabła.",
+      "english": "Such a power does not come from the devil."
+    },
+    {
+      "polish": "Ona zachowuje się, jakby była opętana przez złe duchy.",
+      "english": "She acts as if she were possessed by devils."
+    },
+    {
+      "polish": "Sytuacja wcale się nie poprawiła.",
+      "english": "The situation hasn't improved at all."
+    },
+    {
+      "polish": "To nie ma zupełnie znaczenia.",
+      "english": "It doesn't matter at all."
+    },
+    {
+      "polish": "Ona tylko udawała.",
+      "english": "She was only acting."
+    },
+    {
+      "polish": "On sprawiał wrażenie, jakby zamierzał to kupić.",
+      "english": "He acted like he was going to buy it."
+    },
+    {
+      "polish": "Musisz nauczyć się terminów technicznych.",
+      "english": "You have to learn some technical terms."
+    },
+    {
+      "polish": "Te określenia są rzadko używane.",
+      "english": "These terms are rarely used."
+    },
+    {
+      "polish": "To powinno mi zająć około godziny.",
+      "english": "It should take me about an hour."
+    },
+    {
+      "polish": "Uczę się angielskiego przez dwie godziny każdego dnia.",
+      "english": "I study English for two hours every day."
+    },
+    {
+      "polish": "Ona lubi czytać książki.",
+      "english": "She enjoys reading books."
+    },
+    {
+      "polish": "Naprawdę przyjemnie mi się z tobą rozmawiało.",
+      "english": "I really enjoyed talking with you."
+    },
+    {
+      "polish": "Większość senatorów była przeciwko nowemu planowi.",
+      "english": "Most of the senators were against the new plan."
+    },
+    {
+      "polish": "Głosowałem przeciwko temu pomysłowi.",
+      "english": "I voted against this idea."
+    },
+    {
+      "polish": "Czy dostałeś moją wiadomość?",
+      "english": "Did you get my message?"
+    },
+    {
+      "polish": "Proszę zostawić wiadomość po usłyszeniu sygnału.",
+      "english": "Please leave a message after the tone."
+    },
+    {
+      "polish": "Ona ma piękne ciało.",
+      "english": "She's got a beautiful body."
+    },
+    {
+      "polish": "Moje ciało było całe obolałe.",
+      "english": "My body was aching all over."
+    },
+    {
+      "polish": "Powinieneś zapomnieć o przeszłości i zacząć coś nowego.",
+      "english": "You should forget about the past and start something new."
+    },
+    {
+      "polish": "Założę coś nowego na tę wyjątkową okazję.",
+      "english": "I'm going to wear something new for this special occasion."
+    },
+    {
+      "polish": "Co ty właśnie powiedziałeś? Gówno.",
+      "english": "What did you just say? Jack."
+    },
+    {
+      "polish": "Ty gówno wiesz! Nie będę cię słuchał.",
+      "english": "You know jack! I won't listen to you."
+    },
+    {
+      "polish": "Proszę, nie opuszczaj mnie teraz.",
+      "english": "Don't leave me now, please."
+    },
+    {
+      "polish": "Oni musieli opuścić swój dom, kiedy rozpoczęła się wojna.",
+      "english": "They had to desert their house when the war started."
+    },
+    {
+      "polish": "Pamiętam słowa mojej matki.",
+      "english": "I remember my mother's words."
+    },
+    {
+      "polish": "Jego słowa nic dla niej nie znaczą.",
+      "english": "His words mean nothing to her."
+    },
+    {
+      "polish": "Każda ręka ma pięć palców.",
+      "english": "Each hand has five fingers."
+    },
+    {
+      "polish": "Spotkamy się o piątej po południu.",
+      "english": "We'll meet at five in the afternoon."
+    },
+    {
+      "polish": "Ona jest raczej miła dla ludzi.",
+      "english": "She's rather nice to people."
+    },
+    {
+      "polish": "Jest raczej niespotykane, żeby zobaczyć tęczę o tej porze.",
+      "english": "It's rather unusual to see a rainbow at this time."
+    },
+    {
+      "polish": "Byłam bardzo szczęśliwa w na wieść o twoich zaręczynach.",
+      "english": "I was very happy at the news of your engagement."
+    },
+    {
+      "polish": "Nie byliśmy zdziwieni w reakcji na wiadomość o jego śmierci.",
+      "english": "We weren't surprised at the news of his death."
+    },
+    {
+      "polish": "Ta ziemia jest dobra do uprawy drzew owocowych.",
+      "english": "This land is good for growing fruit trees."
+    },
+    {
+      "polish": "Co zrobisz z tak dużym polem?",
+      "english": "What will you do with so much land?"
+    },
+    {
+      "polish": "Czy to cię nie martwi?",
+      "english": "Doesn't it concern you?"
+    },
+    {
+      "polish": "Martwi mnie jej stan psychiczny.",
+      "english": "Her mental state concerns me."
+    },
+    {
+      "polish": "Oczekiwaliśmy na twój powrót.",
+      "english": "We awaited your return."
+    },
+    {
+      "polish": "Jej powrót był nieoczekiwany.",
+      "english": "Her return was unexpected."
+    },
+    {
+      "polish": "On czasami zachowuje się bardzo dziwnie.",
+      "english": "He sometimes behaves in a very strange way."
+    },
+    {
+      "polish": "Ona odniosła dziwne wrażenie, że widziała to wcześniej.",
+      "english": "She had a strange feeling that she had seen it before."
+    },
+    {
+      "polish": "Proszę mi wybaczyć, ale muszę iść do pracy.",
+      "english": "If you will excuse me, I need to go to work."
+    },
+    {
+      "polish": "Wybacz, że ci przerywam, ale muszę powiedzieć ci coś ważnego.",
+      "english": "Excuse me for interrupting, but I have to tell you something important."
+    },
+    {
+      "polish": "Oznaczyła swój rower naklejką.",
+      "english": "She marked her bike with a sticker."
+    },
+    {
+      "polish": "Oni oznaczyli drzewa, które muszą być ścięte.",
+      "english": "They marked the trees that need to be cut down."
+    },
+    {
+      "polish": "Ona wyrwała mi z rąk mój telefon.",
+      "english": "She whipped my phone off my hands."
+    },
+    {
+      "polish": "Próbował zabrać mi telefon z ręki ale mu się nie udało.",
+      "english": "He tried to whip my phone from my hand but he didn't manage."
+    }
+  ]
+}

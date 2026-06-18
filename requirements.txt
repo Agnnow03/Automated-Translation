@@ -1,1 +1,4 @@
-pyyaml
+Flask
+PyYAML
+language-tool-python
+requests
