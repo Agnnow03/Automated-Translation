@@ -822,6 +822,7 @@ class TranslationService:
         candidate_target: str,
         source_lang: str,
         target_lang: str,
+        max_replacements: Optional[int] = None,
     ):
         """Replace words in `candidate_target` using dictionary translations for
         source words that differ from the matched `candidate_source`.
@@ -860,6 +861,7 @@ class TranslationService:
         updated = False
         # For each low-sim source word index, if dict has translation, try to replace corresponding
         # candidate target word (by same index if available)
+        replacements_done = 0
         for src_idx in sorted(low_sim_source_indexes):
             if src_idx < len(dict_words):
                 replacement = dict_words[src_idx]
@@ -875,8 +877,12 @@ class TranslationService:
                                 preserved = self.dictionary._preserve_case(tok, replacement)
                                 cand_target_tokens[ti] = preserved
                                 updated = True
+                                replacements_done += 1
                                 break
                             word_count += 1
+            # If a maximum number of replacements is requested, stop after reaching it
+            if max_replacements is not None and replacements_done >= max_replacements:
+                break
 
         if not updated:
             return candidate_target
@@ -914,24 +920,56 @@ class TranslationService:
             score = min(1.0, base_similarity + bonus)
 
             if base_similarity >= 0.80:
-                # Before returning, try replacing low-similarity words using dictionary
+                # Before returning, try replacing up to 2 low-similarity words using dictionary
                 replaced_target = self._replace_low_similarity_words_with_dictionary(
-                    sentence, candidate_source, candidate_target, source_lang, target_lang
+                    sentence, candidate_source, candidate_target, source_lang, target_lang, max_replacements=2
                 )
                 if replaced_target != candidate_target:
-                    return build_proposal(
-                        original=sentence,
-                        translation=replaced_target,
-                        score=score,
-                        note=(
-                            'Suggested translation from the closest memory sentence with '
-                            'low-similarity words replaced using the dictionary. '
-                            f'Similarity: {int(base_similarity * 100)}%, '
-                            f'context bonus: {int(bonus * 100)}%.'
-                        ),
-                        matched_source=candidate_source,
-                        matched_target=candidate_target,
-                    )
+                    # Accept the replaced target only if it is sufficiently similar to the dictionary translation
+                    if dictionary_translation:
+                        sim_to_dict = similarity(replaced_target, dictionary_translation)
+                        if sim_to_dict >= 0.90:
+                            return build_proposal(
+                                original=sentence,
+                                translation=replaced_target,
+                                score=score,
+                                note=(
+                                    'Suggested translation from the closest memory sentence with '
+                                    'up to 2 low-similarity words replaced using the dictionary. '
+                                    f'Similarity: {int(base_similarity * 100)}%, '
+                                    f'context bonus: {int(bonus * 100)}%.'
+                                ),
+                                matched_source=candidate_source,
+                                matched_target=candidate_target,
+                            )
+                        else:
+                            # Fallback: use pure dictionary translation when replacement does not reach threshold
+                            if dictionary_translation and dictionary_translation != sentence:
+                                return build_proposal(
+                                    original=sentence,
+                                    translation=dictionary_translation,
+                                    score=min(1.0, similarity(dictionary_translation, candidate_target)),
+                                    note=(
+                                        'Dictionary fallback: replacement did not sufficiently improve similarity; '
+                                        'using dictionary-only translation.'
+                                    ),
+                                    matched_target=dictionary_translation,
+                                )
+                    else:
+                        # No dictionary translation available — accept replaced target
+                        return build_proposal(
+                            original=sentence,
+                            translation=replaced_target,
+                            score=score,
+                            note=(
+                                'Suggested translation from the closest memory sentence with '
+                                'up to 2 low-similarity words replaced using the dictionary. '
+                                f'Similarity: {int(base_similarity * 100)}%, '
+                                f'context bonus: {int(bonus * 100)}%.'
+                            ),
+                            matched_source=candidate_source,
+                            matched_target=candidate_target,
+                        )
 
                 return build_proposal(
                     original=sentence,
@@ -947,24 +985,48 @@ class TranslationService:
                 )
 
             else:
-                fixed_translation, fixed_similarity = self._improve_translation_with_dictionary(
-                    sentence,
-                    candidate_target,
-                    source_lang,
-                    target_lang,
+                # For lower base similarity, try a conservative replacement of up to 2 words
+                replaced_target = self._replace_low_similarity_words_with_dictionary(
+                    sentence, candidate_source, candidate_target, source_lang, target_lang, max_replacements=2
                 )
-                if fixed_translation != candidate_target:
-                    return build_proposal(
-                        original=sentence,
-                        translation=fixed_translation,
-                        score=min(1.0, fixed_similarity),
-                        note=(
-                            'Low-similarity sentence was iteratively improved using dictionary translations. '
-                            'The result reflects the highest similarity obtained from dictionary-based fixes.'
-                        ),
-                        matched_source=candidate_source,
-                        matched_target=candidate_target,
-                    )
+                if replaced_target != candidate_target:
+                    if dictionary_translation:
+                        sim_to_dict = similarity(replaced_target, dictionary_translation)
+                        if sim_to_dict >= 0.90:
+                            return build_proposal(
+                                original=sentence,
+                                translation=replaced_target,
+                                score=min(1.0, sim_to_dict),
+                                note=(
+                                    'Conservatively improved low-similarity memory match by replacing up to 2 words using the dictionary.'
+                                ),
+                                matched_source=candidate_source,
+                                matched_target=candidate_target,
+                            )
+                        else:
+                            # fallback to dictionary-only translation when replaced target isn't good enough
+                            if dictionary_translation and dictionary_translation != sentence:
+                                return build_proposal(
+                                    original=sentence,
+                                    translation=dictionary_translation,
+                                    score=min(1.0, similarity(dictionary_translation, candidate_target)),
+                                    note=(
+                                        'Dictionary fallback: conservative replacement did not reach similarity threshold; '
+                                        'using dictionary-only translation.'
+                                    ),
+                                    matched_target=dictionary_translation,
+                                )
+                    else:
+                        return build_proposal(
+                            original=sentence,
+                            translation=replaced_target,
+                            score=min(1.0, similarity(replaced_target, candidate_target)),
+                            note=(
+                                'Conservatively improved low-similarity memory match by replacing up to 2 words using the dictionary.'
+                            ),
+                            matched_source=candidate_source,
+                            matched_target=candidate_target,
+                        )
 
             if dictionary_translation and dictionary_translation != sentence:
                 improved_similarity = similarity(dictionary_translation, candidate_target)
