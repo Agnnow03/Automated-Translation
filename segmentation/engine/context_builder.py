@@ -1,5 +1,5 @@
 from segmentation.domain.models.segment import Segment
-from engine.normalization import Normalizer
+from .normalization import Normalizer
 
 class ContextBuilder:
 
@@ -8,8 +8,7 @@ class ContextBuilder:
 
     def build(
         self,
-        texts: list[list[str]],
-        original_text
+        texts: list[list[str]]
     ) -> list[Segment]:
 
         segments = []
@@ -35,15 +34,15 @@ class ContextBuilder:
 
                 next_id= next_idx,
 
-                original_text= original_text,
+                text= texts[idx][0],
 
-                normalized_exact=
+                normalize_exact=
                     self.normalizer.normalize(
                         texts[idx][0],
                         profile="exact"
                     ),
 
-                normalized_fuzzy=
+                normalize_fuzzy=
                     self.normalizer.normalize(
                         texts[idx][0],
                         profile="fuzzy"

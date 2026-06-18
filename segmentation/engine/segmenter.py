@@ -12,8 +12,7 @@ class Segmenter:
         segments = self._split(text)
 
         return self.context_builder.build(#to get prev,next sentences
-            segments,
-            text
+            segments
         )
     
     def _split(
@@ -34,12 +33,12 @@ class Segmenter:
                 if self._prevent_break(current):
                     continue
             
-            end_index = i
-            segments.append([current,start_index,end_index])
-
-            start_index = i
-            end_index = 0
-            current = ""
+                end_index = i
+                segments.append([current,start_index,end_index])
+                
+                start_index = i
+                end_index = 0
+                current = ""
 
         return segments
 

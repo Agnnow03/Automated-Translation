@@ -1,6 +1,6 @@
 import yaml
-from domain.models.language_rules import LanguageRules
-from constants.file_paths import LANGUAGE_RULES_PATH, ABBREVIATIONS, SEGMENTATION
+from ...domain.models.language_rules import LanguageRules
+from ..constants.file_paths import LANGUAGE_RULES_PATH, ABBREVIATIONS, SEGMENTATION
 
 class YamlRuleLoader:
     def load(self, language: str) -> LanguageRules:

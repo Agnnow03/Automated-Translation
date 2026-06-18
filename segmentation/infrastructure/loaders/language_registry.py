@@ -1,4 +1,4 @@
-from yaml_rule_loader import YamlRuleLoader
+from .yaml_rule_loader import YamlRuleLoader
 
 class LanguageRegistry:
     instance = None

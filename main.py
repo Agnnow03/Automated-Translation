@@ -13,6 +13,7 @@ try:
         """,
         language=ENGLISH
     )
-    print(segments)
+    for x in segments:
+        print(x.id)
 except Exception as e:
-    print(e.message)#most likely - thsi language isnot handled
+    print(e)#most likely - thsi language isnot handled
